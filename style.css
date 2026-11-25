@@ -603,3 +603,8 @@ a {
 .trend-svg { width: 100%; height: auto; background: #fbf9f3; border: 1px solid #e3dcc4; border-radius: 10px; }
 .trend-label { font-size: 12px; fill: #666; }
 @media (max-width: 560px) { .cmp-name { flex-basis: 7em; } }
+.stars { color: #c9a227; letter-spacing: 0.08em; white-space: nowrap; }
+.article-risk { display: block; font-size: 0.85rem; color: #555; margin-top: 0.25em; }
+.risk-box { background: #f7f4ea; border: 1px solid #e3dcc4; border-radius: 10px; padding: 0.4em 1.1em 1em; margin: 1.2em 0; }
+.risk-legend { margin: 1.6em 0; }
+.risk-legend li { margin: 0.35em 0; }
