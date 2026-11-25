@@ -584,3 +584,22 @@ a {
   margin: 0 0 16px;
   font-size: 0.92rem;
 }
+
+/* --- zukan visuals --- */
+.zukan-banner { width: 100%; height: auto; border-radius: 10px; margin: 0.4em 0 1em; display: block; }
+.zukan-hero { width: 100%; height: auto; border-radius: 10px; margin: 1em 0 0.2em; display: block; }
+.article-card .zukan-thumb { width: 84px; height: 63px; object-fit: cover; border-radius: 6px; float: left; margin-right: 0.8em; }
+.mbar { display: block; height: 8px; background: #e8e2d0; border-radius: 4px; margin-top: 0.35em; max-width: 260px; }
+.mbar > span { display: block; height: 100%; background: #c9a227; border-radius: 4px; }
+.cmp-chart { background: #f7f4ea; border: 1px solid #e3dcc4; border-radius: 10px; padding: 1em 1.1em; margin: 1em 0; }
+.cmp-chart h3 { margin: 0.1em 0 0.7em; font-size: 1rem; }
+.cmp-row { display: flex; align-items: center; gap: 0.6em; margin: 0.35em 0; }
+.cmp-name { flex: 0 0 9.5em; font-size: 0.88rem; }
+.cmp-bar { flex: 1; height: 12px; background: #e8e2d0; border-radius: 6px; }
+.cmp-bar > span { display: block; height: 100%; background: #1f3a5f; border-radius: 6px; }
+.cmp-val { flex: 0 0 4.2em; text-align: right; font-weight: 700; font-size: 0.9rem; }
+.cmp-note { font-size: 0.8rem; color: #666; margin: 0.6em 0 0; }
+.trend-box { margin: 1.4em 0; }
+.trend-svg { width: 100%; height: auto; background: #fbf9f3; border: 1px solid #e3dcc4; border-radius: 10px; }
+.trend-label { font-size: 12px; fill: #666; }
+@media (max-width: 560px) { .cmp-name { flex-basis: 7em; } }
