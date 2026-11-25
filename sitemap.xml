@@ -93,6 +93,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://invest.pug-o.jp/zukan/creal.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/zukan/cozuchi.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/zukan/ownersbook.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/zukan/funds.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://invest.pug-o.jp/news/gdp-2026q3-negative.html</loc>
     <lastmod>2026-11-25</lastmod>
     <priority>0.7</priority>
@@ -126,6 +146,16 @@
     <loc>https://invest.pug-o.jp/news/nikkei-sharp-fall-1125.html</loc>
     <lastmod>2026-11-25</lastmod>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/news/creal-osaka-midosuji-hotel-fund.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/CREAL.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/GDP.html</loc>
@@ -164,6 +194,16 @@
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/ビットコイン.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/ホテル.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/不動産クラウドファンディング.html</loc>
     <lastmod>2026-11-25</lastmod>
     <priority>0.5</priority>
   </url>
