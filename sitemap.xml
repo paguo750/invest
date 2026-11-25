@@ -178,6 +178,21 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://invest.pug-o.jp/news/kospi-plunge-softbank-bitcoin.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/news/us-market-thanksgiving-closed.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/news/ownersbook-komaba-fund.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://invest.pug-o.jp/tags/COZUCHI.html</loc>
     <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
@@ -204,6 +219,11 @@
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/J-REIT.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/OwnersBook.html</loc>
     <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
   </url>
@@ -268,6 +288,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://invest.pug-o.jp/tags/感謝祭.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://invest.pug-o.jp/tags/政策金利.html</loc>
     <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
@@ -298,6 +323,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://invest.pug-o.jp/tags/米国株.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://invest.pug-o.jp/tags/米国経済.html</loc>
     <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
@@ -309,6 +339,11 @@
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/金利・経済指標.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/韓国株.html</loc>
     <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
   </url>
