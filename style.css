@@ -660,17 +660,17 @@ a {
   .mbar { max-width: none; }
 }
 
-/* --- redesign 2026-11-26: distinct serious identity (deep green + serif + paper) --- */
+/* --- redesign 2026-11-26: distinct serious identity (dark brown + cream + bronze, serif) --- */
 :root {
-  --navy: #14532d;
-  --navy-dark: #0b3d20;
-  --ink: #211d16;
-  --muted: #6f675a;
-  --line: #ddd5c2;
-  --bg: #f7f4ec;
-  --bg-soft: #efe9da;
-  --accent: #14532d;
-  --gold: #b08d2f;
+  --navy: #4a3220;
+  --navy-dark: #2a1a10;
+  --ink: #262019;
+  --muted: #77694f;
+  --line: #d9cbae;
+  --bg: #f6f1e6;
+  --bg-soft: #ece1cb;
+  --accent: #4a3220;
+  --gold: #a9713f;
 }
 body { background: var(--bg); }
 h1, h2, h3, .brand-text-only, .article-headline, .zukan-name {
@@ -678,13 +678,13 @@ h1, h2, h3, .brand-text-only, .article-headline, .zukan-name {
     YuMincho, "Noto Serif CJK JP", "Noto Serif JP", serif;
 }
 .site-header { background: var(--navy-dark); border-bottom: 3px solid var(--gold); }
-.brand, .brand-text-only { color: #f5eed8; text-decoration: none; }
-.brand-text-only small { color: #cdbf9d; }
-.site-nav a { color: #efe8d2; }
+.brand, .brand-text-only { color: #f7efdc; text-decoration: none; }
+.brand-text-only small { color: #cdb28a; }
+.site-nav a { color: #f0e4c8; }
 .site-nav a:hover { color: #ffffff; text-decoration: underline; text-decoration-color: var(--gold); }
 .site-footer { background: var(--navy-dark); }
-.site-footer, .site-footer .copyright { color: #d8cfb4; }
-.footer-nav a { color: #f0e8d0; }
+.site-footer, .site-footer .copyright { color: #dcc7a2; }
+.footer-nav a { color: #f4ead2; }
 .article-card {
   border-radius: 3px; box-shadow: none; background: #fffdf7;
   border-color: var(--line);
@@ -705,7 +705,7 @@ h1, h2, h3, .brand-text-only, .article-headline, .zukan-name {
   text-align: left; vertical-align: top; line-height: 1.6;
 }
 .zukan-table thead th {
-  background: var(--navy-dark); color: #f5eed8; font-weight: 600;
+  background: var(--navy-dark); color: #f7efdc; font-weight: 600;
   font-size: 0.88rem; white-space: nowrap;
 }
 .zukan-table tbody tr:hover { background: #f3efe2; }
