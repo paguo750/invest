@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://invest.pug-o.jp/</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://invest.pug-o.jp/news/</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://invest.pug-o.jp/zukan/</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
@@ -153,98 +153,163 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://invest.pug-o.jp/news/us-pce-october-2026.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/news/us-gdp-q3-second-estimate.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/news/boj-lending-rate-september.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/news/bitcoin-retest-58000.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/news/cozuchi-100k-investors.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/COZUCHI.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://invest.pug-o.jp/tags/CREAL.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/ETF.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/FRB.html</loc>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/GDP.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/J-REIT.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/PCE.html</loc>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/S&amp;P500.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/TOPIX.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/イーサリアム.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/ジャパンリアルエステイト投資法人.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/ドル円.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/ビットコイン.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/ファンド.html</loc>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/ホテル.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/不動産クラウドファンディング.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/不動産・REIT.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/仮想通貨.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/政策金利.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/日経平均.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/日銀.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/東証REIT指数.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/株式・指数.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/米国GDP.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/米国経済.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/貸出金利.html</loc>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/金利・経済指標.html</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
   </url>
 </urlset>
