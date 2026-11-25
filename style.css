@@ -659,3 +659,65 @@ a {
   .metric-note { font-size: 0.86rem; line-height: 1.6; }
   .mbar { max-width: none; }
 }
+
+/* --- redesign 2026-11-26: distinct serious identity (deep green + serif + paper) --- */
+:root {
+  --navy: #14532d;
+  --navy-dark: #0b3d20;
+  --ink: #211d16;
+  --muted: #6f675a;
+  --line: #ddd5c2;
+  --bg: #f7f4ec;
+  --bg-soft: #efe9da;
+  --accent: #14532d;
+  --gold: #b08d2f;
+}
+body { background: var(--bg); }
+h1, h2, h3, .brand-text-only, .article-headline, .zukan-name {
+  font-family: "Hiragino Mincho ProN", "Hiragino Mincho Pro", "Yu Mincho",
+    YuMincho, "Noto Serif CJK JP", "Noto Serif JP", serif;
+}
+.site-header { background: var(--navy-dark); border-bottom: 3px solid var(--gold); }
+.brand, .brand-text-only { color: #f5eed8; text-decoration: none; }
+.brand-text-only small { color: #cdbf9d; }
+.site-nav a { color: #efe8d2; }
+.site-nav a:hover { color: #ffffff; text-decoration: underline; text-decoration-color: var(--gold); }
+.site-footer { background: var(--navy-dark); }
+.site-footer, .site-footer .copyright { color: #d8cfb4; }
+.footer-nav a { color: #f0e8d0; }
+.article-card {
+  border-radius: 3px; box-shadow: none; background: #fffdf7;
+  border-color: var(--line);
+}
+.article-card .article-headline { color: var(--navy-dark); }
+.hero, .points-box, .risk-box, .nature-box { background: #fffdf7; border-color: var(--line); border-radius: 3px; }
+.tag-chip, .tag-mini { border-radius: 3px; }
+.metric-table th { background: var(--bg-soft); }
+.zukan-banner { border-radius: 3px; }
+/* zukan list table */
+.zukan-table-wrap { overflow-x: auto; }
+.zukan-table {
+  width: 100%; border-collapse: collapse; background: #fffdf7;
+  border: 1px solid var(--line); font-size: 0.95rem;
+}
+.zukan-table th, .zukan-table td {
+  border-bottom: 1px solid var(--line); padding: 10px 12px;
+  text-align: left; vertical-align: top; line-height: 1.6;
+}
+.zukan-table thead th {
+  background: var(--navy-dark); color: #f5eed8; font-weight: 600;
+  font-size: 0.88rem; white-space: nowrap;
+}
+.zukan-table tbody tr:hover { background: #f3efe2; }
+.zukan-name { font-weight: 700; color: var(--navy-dark); font-size: 1.02rem; }
+@media (max-width: 560px) {
+  .zukan-table, .zukan-table tbody, .zukan-table tr, .zukan-table td { display: block; width: 100%; }
+  .zukan-table thead { display: none; }
+  .zukan-table tr { border-bottom: 2px solid var(--line); padding: 8px 0 10px; }
+  .zukan-table td { border-bottom: none; padding: 3px 14px; }
+  .zukan-table td::before {
+    content: attr(data-label); display: block;
+    font-size: 0.78rem; color: var(--muted); margin-bottom: 1px;
+  }
+  .zukan-table td:first-child::before { display: none; }
+}
