@@ -721,3 +721,8 @@ h1, h2, h3, .brand-text-only, .article-headline, .zukan-name {
   }
   .zukan-table td:first-child::before { display: none; }
 }
+
+/* footer paguo accent (small, subtle) */
+.site-footer{position:relative;}
+.footer-paguo{position:absolute;right:10px;bottom:0;width:104px;height:auto;opacity:.92;pointer-events:none;}
+@media (max-width:640px){.footer-paguo{width:76px;right:4px;}}
