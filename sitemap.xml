@@ -223,6 +223,26 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://invest.pug-o.jp/news/nikkei-open-rebound-1126.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/news/tse-reit-index-1125.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/news/creal-q2-overseas-scheme.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/news/fed-beige-book-november.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://invest.pug-o.jp/tags/COZUCHI.html</loc>
     <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
@@ -304,6 +324,11 @@
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/ファンド.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/ベージュブック.html</loc>
     <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
   </url>

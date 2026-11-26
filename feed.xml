@@ -5,7 +5,35 @@
     <link>https://invest.pug-o.jp/news/</link>
     <description>投資関連ニュースの要約と、指数・銘柄の指標を整理するサイト「投資のしっぽ」の更新情報です。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 26 Nov 2026 08:33:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 09:15:00 +0900</lastBuildDate>
+    <item>
+      <title>米ベージュブック、12地区中8地区で経済が拡大　物価は緩やかな上昇</title>
+      <link>https://invest.pug-o.jp/news/fed-beige-book-november.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/fed-beige-book-november.html</guid>
+      <pubDate>Thu, 26 Nov 2026 09:00:00 +0900</pubDate>
+      <description>米連邦準備制度理事会（FRB）は25日、全米12地区の連邦準備銀行による景況報告（ベージュブック）を公表した。8地区が小幅から緩やかな経済の拡大を報告し、4地区は横ばいだった。物価は全体として緩やかに上昇し、エネルギーや輸送、関税関連の費用増加を指摘する声があった。調査は11月16日までに集められたもので、12月8日・9日の連邦公開市場委員会（FOMC）の討議資料となる。</description>
+    </item>
+    <item>
+      <title>クリアル、海外投資家との連携で大型ホテル案件を推進　証券子会社はクリアル証券へ商号変更</title>
+      <link>https://invest.pug-o.jp/news/creal-q2-overseas-scheme.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/creal-q2-overseas-scheme.html</guid>
+      <pubDate>Thu, 26 Nov 2026 09:00:00 +0900</pubDate>
+      <description>クリアルは25日に公表した2027年3月期第2四半期の決算説明で、不動産クラウドファンディングにおける海外投資家との連携や、不動産セキュリティトークン市場への参入準備の進捗を説明した。現在募集中の「大阪御堂筋ホテル」は、海外投資家との共同スキームによる第1号案件として位置づけられている。証券子会社は11月24日にクリアル証券へ商号を変更した。</description>
+    </item>
+    <item>
+      <title>東証REIT指数は1,681.73　日経平均の大幅安と逆行し3営業日ぶり上昇</title>
+      <link>https://invest.pug-o.jp/news/tse-reit-index-1125.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/tse-reit-index-1125.html</guid>
+      <pubDate>Thu, 26 Nov 2026 09:00:00 +0900</pubDate>
+      <description>25日の東証REIT指数は前日比19.23ポイント高（+1.16%）の1,681.73で終え、3営業日ぶりに上昇した。同日の日経平均は1,633円安と大幅に下落しており、株式とREITで異なる動きとなった。REIT指数は前日24日に1,662.50と小幅に下落していた。</description>
+    </item>
+    <item>
+      <title>日経平均は反発して始まる　前日は1,633円安</title>
+      <link>https://invest.pug-o.jp/news/nikkei-open-rebound-1126.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/nikkei-open-rebound-1126.html</guid>
+      <pubDate>Thu, 26 Nov 2026 09:00:00 +0900</pubDate>
+      <description>26日の東京株式市場で日経平均株価は反発して始まった。前日25日は前日比1,633円01銭安の5万7,011円62銭と大幅に下落していた。寄り付き前の大阪取引所では日経平均先物12月物が前日の清算値と比べて600円高い5万7,640円で始まった。米株式市場は26日が感謝祭で休場となる。</description>
+    </item>
     <item>
       <title>ビットコインが6万ドル台を回復　一時は5万7,000ドル台まで下落</title>
       <link>https://invest.pug-o.jp/news/bitcoin-reclaims-60000.html</link>
@@ -117,34 +145,6 @@
       <guid isPermaLink="true">https://invest.pug-o.jp/news/nikkei-sharp-fall-1125.html</guid>
       <pubDate>Wed, 25 Nov 2026 23:00:00 +0900</pubDate>
       <description>25日の東京株式市場で日経平均株価は大幅に反落し、終値は前日比1,633円01銭安の57,011円62銭だった。米国のハイテク株安や、巨額のAI投資の持続性・収益性への懸念を背景に、半導体などAI関連銘柄を中心に売りが膨らんだ。一方、東証プライム市場では値上がり銘柄数が全体の約6割を占め、医薬品や食料品など業績が景気に左右されにくい銘柄には買いが向かった。TOPIXは18.68ポイント安の3,74</description>
-    </item>
-    <item>
-      <title>NY市場は高安まちまち　ダウは5万ドル台を回復、ハイテク株は反落</title>
-      <link>https://invest.pug-o.jp/news/ny-market-dow-50000.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/ny-market-dow-50000.html</guid>
-      <pubDate>Wed, 25 Nov 2026 23:00:00 +0900</pubDate>
-      <description>24日のニューヨーク株式市場は高安まちまちの展開となった。ダウ工業株30種平均は前日比423.39ドル高の50,018.70ドルと続伸し、5万ドル台を回復した。一方、エヌビディアなどハイテク株の下落が重しとなり、ナスダック総合指数は1.48%安、S&amp;P500は0.50%安と反落した。ドル円は1ドル=159円台前半で推移した。</description>
-    </item>
-    <item>
-      <title>ビットコインが6万ドルを割り込む　暗号資産ファンドからの資金流出が重荷に</title>
-      <link>https://invest.pug-o.jp/news/bitcoin-below-60000.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/bitcoin-below-60000.html</guid>
-      <pubDate>Wed, 25 Nov 2026 23:00:00 +0900</pubDate>
-      <description>米国時間24日朝、ビットコインの価格が6万ドルを割り込み、前日の上昇分を帳消しにした。金利上昇への懸念や、暗号資産ファンドからの相次ぐ資金流出が重荷になったと伝えられている。時価総額2位のイーサリアムも下落し、他の主要銘柄も値を下げた。ビットコインは過去30日間で約25%下落し、昨年10月に記録した過去最高値からは半値以下の水準となっている。</description>
-    </item>
-    <item>
-      <title>東証REIT指数、24日は1,662.50と小幅に下落　売買代金は401億円</title>
-      <link>https://invest.pug-o.jp/news/tse-reit-index-1124.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/tse-reit-index-1124.html</guid>
-      <pubDate>Wed, 25 Nov 2026 23:00:00 +0900</pubDate>
-      <description>24日の東証REIT指数は1,662.50ポイントと、前日比0.73ポイント（0.04%）の小幅な下落で取引を終えた。売買代金は401億円で、値上がりは32銘柄、値下がりは22銘柄だった。REIT全体の平均分配金利回りは5.61%とされている。大型のオフィス系銘柄を中心に売りが優勢な一日だった。</description>
-    </item>
-    <item>
-      <title>ジャパンリアルエステイト投資法人、第50期決算を発表　1口当たり分配金は2,561円</title>
-      <link>https://invest.pug-o.jp/news/jre-50th-results.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/jre-50th-results.html</guid>
-      <pubDate>Wed, 25 Nov 2026 23:00:00 +0900</pubDate>
-      <description>ジャパンリアルエステイト投資法人（8952）は、第50期（2026年9月期）の決算を発表した。投資口の追加発行を行い「コモレ四谷」を追加取得したほか、「赤坂パークビル」など3物件を売却した。支払利息は増えたが、賃貸収入と物件売却益の増加により前期比3.3%の増益となり、1口当たり分配金は2,561円と前期比1%増えた。期末のポートフォリオは77物件、資産規模（取得額合計）は1兆1,981億円、有利</description>
     </item>
   </channel>
 </rss>
