@@ -398,6 +398,16 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://invest.pug-o.jp/news/tokyo-cpi-november-2026.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/news/nikkei-futures-premarket-1127.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://invest.pug-o.jp/tags/COZUCHI.html</loc>
     <lastmod>2026-11-27</lastmod>
     <priority>0.5</priority>
@@ -613,6 +623,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://invest.pug-o.jp/tags/先物.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://invest.pug-o.jp/tags/公募REIT.html</loc>
     <lastmod>2026-11-27</lastmod>
     <priority>0.5</priority>
@@ -679,6 +694,11 @@
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/株式・指数.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/消費者物価指数.html</loc>
     <lastmod>2026-11-27</lastmod>
     <priority>0.5</priority>
   </url>

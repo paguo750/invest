@@ -5,7 +5,21 @@
     <link>https://invest.pug-o.jp/news/</link>
     <description>投資関連ニュースの要約と、指数・銘柄の指標を整理するサイト「投資のしっぽ」の更新情報です。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 08:14:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 08:38:00 +0900</lastBuildDate>
+    <item>
+      <title>日経平均先物は夜間で上昇　寄り付き前の材料は東京CPIと米短縮取引</title>
+      <link>https://invest.pug-o.jp/news/nikkei-futures-premarket-1127.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/nikkei-futures-premarket-1127.html</guid>
+      <pubDate>Fri, 27 Nov 2026 08:00:00 +0900</pubDate>
+      <description>27日の東京株式市場の寄り付きを前に、日経平均先物は夜間取引で上昇した。大阪取引所の日経225先物（期近）は27日6時時点で5万7,890円と、前日終値を540円上回った。CME日経平均先物は5万7,665円だった。26日の日経平均は前日比487円54銭高の5万7,499円16銭で終えていた。米株式市場は26日が感謝祭で休場し、27日は短縮取引となる。午前8時30分には11月の東京都区部消費者物価</description>
+    </item>
+    <item>
+      <title>東京都区部の消費者物価、11月はコア2.9%上昇　前月から伸びが拡大</title>
+      <link>https://invest.pug-o.jp/news/tokyo-cpi-november-2026.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/tokyo-cpi-november-2026.html</guid>
+      <pubDate>Fri, 27 Nov 2026 08:00:00 +0900</pubDate>
+      <description>総務省が27日朝に発表した11月の東京都区部消費者物価指数（中旬速報値）は、生鮮食品を除くコアが前年同月比2.9%上昇し、10月の2.6%から伸びが拡大した。総合指数は2.8%上昇、生鮮食品とエネルギーを除くコアコアは2.5%上昇だった。電気・ガス料金への政府の負担軽減策が終了したことに伴い、エネルギー価格が押し上げ要因になったと報じられている。QUICKがまとめた市場予想の中央値はコア3.0%で</description>
+    </item>
     <item>
       <title>OwnersBook、目黒区大岡山の土地案件を11月27日から募集　想定利回りは年率5.4%</title>
       <link>https://invest.pug-o.jp/news/ownersbook-ookayama-fund.html</link>
@@ -131,20 +145,6 @@
       <guid isPermaLink="true">https://invest.pug-o.jp/news/ownersbook-komaba-fund.html</guid>
       <pubDate>Thu, 26 Nov 2026 04:00:00 +0900</pubDate>
       <description>不動産特化の融資型クラウドファンディング「OwnersBook」は、駒場東大前マンション案件の募集を行っている。申込期間は11月20日から12月1日までで、募集総額は7億5,000万円、運用期間は18ヶ月と公表されている。対象物件を保有する総合不動産会社への貸付を行う案件で、想定利回りは年3.5%とされている。</description>
-    </item>
-    <item>
-      <title>米市場は感謝祭で休場へ　直前の取引では主要指数が下落、27日は短縮取引</title>
-      <link>https://invest.pug-o.jp/news/us-market-thanksgiving-closed.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/us-market-thanksgiving-closed.html</guid>
-      <pubDate>Thu, 26 Nov 2026 04:00:00 +0900</pubDate>
-      <description>米国の株式市場は26日、感謝祭のため休場する。NYSEとナスダック、債券市場はいずれも取引を休止し、27日の取引は株式が米東部時間13時に終了する短縮取引となる。休場直前の25日の取引では、S&amp;P500が約1.5%、ナスダック総合指数が2%超下落するなど、主要指数がそろって下落した。</description>
-    </item>
-    <item>
-      <title>韓国KOSPIが約6%下落、ソフトバンクは14%安　ビットコインも6万ドル割れ</title>
-      <link>https://invest.pug-o.jp/news/kospi-plunge-softbank-bitcoin.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/kospi-plunge-softbank-bitcoin.html</guid>
-      <pubDate>Thu, 26 Nov 2026 04:00:00 +0900</pubDate>
-      <description>25日のアジア市場では、AI関連株への売りが広がり、韓国のKOSPIが約6%下落して4,700前後となった。ソフトバンクグループは14%下落した。暗号資産も連動して下落し、ビットコインは5万9,300ドル前後で取引され、再び6万ドルを割り込んだ。ビットコインは11月に入って約24%下落している。</description>
     </item>
   </channel>
 </rss>
