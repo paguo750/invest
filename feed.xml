@@ -5,7 +5,7 @@
     <link>https://invest.pug-o.jp/news/</link>
     <description>投資関連ニュースの要約と、指数・銘柄の指標を整理するサイト「投資のしっぽ」の更新情報です。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 26 Nov 2026 09:16:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 10:14:00 +0900</lastBuildDate>
     <item>
       <title>米ベージュブック、12地区中8地区で経済が拡大　物価は緩やかな上昇</title>
       <link>https://invest.pug-o.jp/news/fed-beige-book-november.html</link>
@@ -98,6 +98,20 @@
       <description>25日のアジア市場では、AI関連株への売りが広がり、韓国のKOSPIが約6%下落して4,700前後となった。ソフトバンクグループは14%下落した。暗号資産も連動して下落し、ビットコインは5万9,300ドル前後で取引され、再び6万ドルを割り込んだ。ビットコインは11月に入って約24%下落している。</description>
     </item>
     <item>
+      <title>iDeCo、12月1日から拠出限度額を引き上げ　企業年金なしの会社員は月6.2万円に</title>
+      <link>https://invest.pug-o.jp/news/ideco-expansion-december-2026.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/ideco-expansion-december-2026.html</guid>
+      <pubDate>Thu, 26 Nov 2026 10:00:00 +0900</pubDate>
+      <description>厚生労働省は23日、個人型確定拠出年金（iDeCo）の制度拡充を12月1日から施行すると発表した。毎月の拠出限度額を引き上げるとともに、加入できる年齢の上限を広げる。企業年金がない会社員の拠出限度額は月2万3,000円から月6万2,000円に、自営業者らは国民年金基金などとの合計で月6万8,000円から月7万5,000円になる。掛金は引き続き全額が所得控除の対象となる。</description>
+    </item>
+    <item>
+      <title>日銀の基調的インフレ指標、10月は前年比3.5%上昇　3年ぶりの高水準</title>
+      <link>https://invest.pug-o.jp/news/boj-underlying-inflation-october.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/boj-underlying-inflation-october.html</guid>
+      <pubDate>Thu, 26 Nov 2026 10:00:00 +0900</pubDate>
+      <description>日本銀行が25日に公表した報告書によると、生鮮食品と特殊要因を除いた消費者物価は10月に前年同月比3.5%上昇し、2023年9月以来の速い伸びとなった。9月の上昇率は3.2%だった。同じ日に公表された10月の企業向けサービス価格指数も前年比4.2%上昇し、1990年以来の大幅な伸びとなった。総務省が発表した10月の生鮮食品を除く消費者物価指数は前年比2.2%の上昇だった。</description>
+    </item>
+    <item>
       <title>COZUCHIの登録投資家数が10万人を突破　記念キャンペーンと新ファンド2件を発表</title>
       <link>https://invest.pug-o.jp/news/cozuchi-100k-investors.html</link>
       <guid isPermaLink="true">https://invest.pug-o.jp/news/cozuchi-100k-investors.html</guid>
@@ -131,20 +145,6 @@
       <guid isPermaLink="true">https://invest.pug-o.jp/news/us-pce-october-2026.html</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0900</pubDate>
       <description>米商務省が25日に発表した10月の個人消費支出（PCE）物価指数は、前年同月比3.8%上昇した。前月（3.6%）から伸びが拡大した。食品とエネルギーを除くコアPCE物価指数は同3.3%上昇し、市場予想の3.2%を上回った。前月比では総合・コアとも0.3%上昇した。個人所得は前月比0.7%増、個人消費支出は同0.3%増だった。</description>
-    </item>
-    <item>
-      <title>CREAL、大阪・御堂筋のホテルを対象にしたファンドを募集中　募集金額は15億5,200万円</title>
-      <link>https://invest.pug-o.jp/news/creal-osaka-midosuji-hotel-fund.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/creal-osaka-midosuji-hotel-fund.html</guid>
-      <pubDate>Wed, 25 Nov 2026 23:00:00 +0900</pubDate>
-      <description>不動産クラウドファンディングのCREALが、大阪・御堂筋のホテルを対象とするファンドの募集を行っている。募集金額は15億5,200万円で、募集期間は2026年11月13日から11月30日まで。想定利回りは年5.5％と公表されており、運用期間は2026年12月15日から2029年12月15日までの36ヶ月が想定されている。</description>
-    </item>
-    <item>
-      <title>日経平均が大幅反落、終値は57,011円62銭　AI関連株への売りが広がる</title>
-      <link>https://invest.pug-o.jp/news/nikkei-sharp-fall-1125.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/nikkei-sharp-fall-1125.html</guid>
-      <pubDate>Wed, 25 Nov 2026 23:00:00 +0900</pubDate>
-      <description>25日の東京株式市場で日経平均株価は大幅に反落し、終値は前日比1,633円01銭安の57,011円62銭だった。米国のハイテク株安や、巨額のAI投資の持続性・収益性への懸念を背景に、半導体などAI関連銘柄を中心に売りが膨らんだ。一方、東証プライム市場では値上がり銘柄数が全体の約6割を占め、医薬品や食料品など業績が景気に左右されにくい銘柄には買いが向かった。TOPIXは18.68ポイント安の3,74</description>
     </item>
   </channel>
 </rss>

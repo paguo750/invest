@@ -243,6 +243,16 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://invest.pug-o.jp/news/boj-underlying-inflation-october.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/news/ideco-expansion-december-2026.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://invest.pug-o.jp/tags/COZUCHI.html</loc>
     <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
@@ -303,6 +313,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://invest.pug-o.jp/tags/iDeCo.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://invest.pug-o.jp/tags/イーサリアム.html</loc>
     <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
@@ -358,6 +373,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://invest.pug-o.jp/tags/年金.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://invest.pug-o.jp/tags/感謝祭.html</loc>
     <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
@@ -394,6 +414,11 @@
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/為替.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/物価.html</loc>
     <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
   </url>
