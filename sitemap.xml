@@ -288,6 +288,21 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://invest.pug-o.jp/news/bitflyer-mexc-transfer-suspension.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/news/mitsubishi-logistics-reit-okazaki.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/news/jimoto-reit-28-sokoji-acquisition.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://invest.pug-o.jp/tags/COZUCHI.html</loc>
     <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
@@ -323,6 +338,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://invest.pug-o.jp/tags/MEXC.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://invest.pug-o.jp/tags/NYダウ.html</loc>
     <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
@@ -344,6 +364,11 @@
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/TOPIX.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/bitFlyer.html</loc>
     <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
   </url>
@@ -403,6 +428,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://invest.pug-o.jp/tags/三菱地所物流リート.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://invest.pug-o.jp/tags/不動産クラウドファンディング.html</loc>
     <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
@@ -423,7 +453,17 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://invest.pug-o.jp/tags/地主リート.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://invest.pug-o.jp/tags/年金.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/底地.html</loc>
     <lastmod>2026-11-26</lastmod>
     <priority>0.5</priority>
   </url>

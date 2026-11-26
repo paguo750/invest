@@ -5,7 +5,7 @@
     <link>https://invest.pug-o.jp/news/</link>
     <description>投資関連ニュースの要約と、指数・銘柄の指標を整理するサイト「投資のしっぽ」の更新情報です。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 26 Nov 2026 12:12:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 13:12:00 +0900</lastBuildDate>
     <item>
       <title>米ベージュブック、12地区中8地区で経済が拡大　物価は緩やかな上昇</title>
       <link>https://invest.pug-o.jp/news/fed-beige-book-november.html</link>
@@ -98,6 +98,27 @@
       <description>25日のアジア市場では、AI関連株への売りが広がり、韓国のKOSPIが約6%下落して4,700前後となった。ソフトバンクグループは14%下落した。暗号資産も連動して下落し、ビットコインは5万9,300ドル前後で取引され、再び6万ドルを割り込んだ。ビットコインは11月に入って約24%下落している。</description>
     </item>
     <item>
+      <title>地主リート、底地28物件を368億円で取得</title>
+      <link>https://invest.pug-o.jp/news/jimoto-reit-28-sokoji-acquisition.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/jimoto-reit-28-sokoji-acquisition.html</guid>
+      <pubDate>Thu, 26 Nov 2026 13:00:00 +0900</pubDate>
+      <description>地主プライベートリート投資法人（地主リート）は、底地28物件を取得する。取得総額は368億3,400万円。発表は2026年11月25日。</description>
+    </item>
+    <item>
+      <title>三菱地所物流リート、愛知・岡崎の物流施設を53.96億円で取得　取得日は11月26日</title>
+      <link>https://invest.pug-o.jp/news/mitsubishi-logistics-reit-okazaki.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/mitsubishi-logistics-reit-okazaki.html</guid>
+      <pubDate>Thu, 26 Nov 2026 13:00:00 +0900</pubDate>
+      <description>三菱地所物流リート投資法人は11月24日、愛知県岡崎市にある物流施設「MJロジパーク岡崎1」の信託受益権を取得すると発表した。取得予定価格は53億9,600万円で、取得予定日は11月26日。鑑定評価額は61億9,000万円（2026年10月31日時点）、鑑定NOI利回りは5.1%と公表されている。取得資金は借入金と手元資金でまかなう。</description>
+    </item>
+    <item>
+      <title>bitFlyer、MEXCとの暗号資産の送受取を12月7日から停止　米FinCENの命令を受けて</title>
+      <link>https://invest.pug-o.jp/news/bitflyer-mexc-transfer-suspension.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/bitflyer-mexc-transfer-suspension.html</guid>
+      <pubDate>Thu, 26 Nov 2026 13:00:00 +0900</pubDate>
+      <description>暗号資産取引所のbitFlyerは25日、海外取引所MEXC Globalとの暗号資産の送付・受取を2026年12月7日から停止すると発表した。米財務省の金融犯罪取締ネットワーク（FinCEN）が11月6日にMEXCをマネー・ローンダリング上の主要な懸念先に指定し、米国の金融機関に資金の送受取を禁じる命令を出したことを受けた措置。停止の対象は送付と受取の双方で、登録済みの送付先アドレスへの送付も止</description>
+    </item>
+    <item>
       <title>米ビットコイン現物ETF、11月の資金流出は49.4億ドル　開始以来最大のペース</title>
       <link>https://invest.pug-o.jp/news/bitcoin-etf-outflow-november-2026.html</link>
       <guid isPermaLink="true">https://invest.pug-o.jp/news/bitcoin-etf-outflow-november-2026.html</guid>
@@ -124,27 +145,6 @@
       <guid isPermaLink="true">https://invest.pug-o.jp/news/prologis-reit-koga-acquisition.html</guid>
       <pubDate>Thu, 26 Nov 2026 11:00:00 +0900</pubDate>
       <description>日本プロロジスリート投資法人は、茨城県古河市にある物流施設3物件の取得に向けた売買契約を締結した。取得価格は合計345億円。26日付の日経不動産マーケット情報が報じた。</description>
-    </item>
-    <item>
-      <title>フィデリティ、現物チェーンリンクETFをSECに申請　ナスダック上場を予定</title>
-      <link>https://invest.pug-o.jp/news/fidelity-spot-chainlink-etf-filing.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/fidelity-spot-chainlink-etf-filing.html</guid>
-      <pubDate>Thu, 26 Nov 2026 11:00:00 +0900</pubDate>
-      <description>米資産運用大手フィデリティは25日、現物のチェーンリンク（LINK）に連動する上場投資信託（ETF）「フィデリティ・チェーンリンク・ファンド」の設立に向け、米証券取引委員会（SEC）に登録届出書（フォームS-1）を提出した。ファンドはLINKを直接保有し、費用控除後の価格に連動することを目指す。ナスダックへの上場を予定し、ティッカーはFLNKを提案している。保有するLINKのステーキングは行わない</description>
-    </item>
-    <item>
-      <title>韓国中銀、政策金利を3.25％に引き上げ　今年3回目</title>
-      <link>https://invest.pug-o.jp/news/bank-of-korea-rate-hike-november.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/bank-of-korea-rate-hike-november.html</guid>
-      <pubDate>Thu, 26 Nov 2026 11:00:00 +0900</pubDate>
-      <description>韓国銀行（中央銀行）は26日、金融通貨委員会を開き、政策金利を0.25％引き上げ年3.25％とすることを決めた。利上げは今年3回目。半導体の輸出好調に伴って成長持続が見込まれる中、物価上昇率が政策目標の2％を上回って推移している。韓国銀行は今年7月に2023年1月以来3年半ぶりの利上げを決め、8月も引き上げた。10月は2回の利上げの影響を見極めるとして据え置いていた。</description>
-    </item>
-    <item>
-      <title>田村日銀審議委員、利上げは「悠々として急ぐ」　中立水準へ早く</title>
-      <link>https://invest.pug-o.jp/news/tamura-boj-rate-hike-remark.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/tamura-boj-rate-hike-remark.html</guid>
-      <pubDate>Thu, 26 Nov 2026 11:00:00 +0900</pubDate>
-      <description>日本銀行の田村直樹審議委員は26日、山梨県金融経済懇談会で講演し、金融環境は依然として緩和的な状態にあるとして、政策金利を中立水準に早く持っていく必要があると述べた。基調的な物価上昇率の2％目標への定着度合いが低い中で、物価の上振れの兆しには利上げペースの加速など俊敏に反応していくことが求められるとした。利上げの影響の見極めは丁寧に行う必要があるとしつつ、「ゆっくりではなく、悠々として急ぐことが求</description>
     </item>
   </channel>
 </rss>
