@@ -471,6 +471,30 @@ a {
   background: var(--bg-soft);
 }
 
+.tag-browse-list .tag-extra {
+  display: none;
+}
+
+.tag-browse-list.open .tag-extra {
+  display: list-item;
+}
+
+.tag-more-btn {
+  margin-top: 10px;
+  border: 1px solid var(--navy);
+  background: var(--bg-soft);
+  color: var(--navy);
+  border-radius: 999px;
+  padding: 4px 18px;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.tag-more-btn:hover,
+.tag-more-btn:focus {
+  background: var(--line);
+}
+
 .archive-list {
   list-style: none;
   margin: 0 0 14px;
