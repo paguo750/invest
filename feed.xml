@@ -5,7 +5,7 @@
     <link>https://invest.pug-o.jp/news/</link>
     <description>投資関連ニュースの要約と、指数・銘柄の指標を整理するサイト「投資のしっぽ」の更新情報です。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 26 Nov 2026 11:16:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 12:12:00 +0900</lastBuildDate>
     <item>
       <title>米ベージュブック、12地区中8地区で経済が拡大　物価は緩やかな上昇</title>
       <link>https://invest.pug-o.jp/news/fed-beige-book-november.html</link>
@@ -98,6 +98,20 @@
       <description>25日のアジア市場では、AI関連株への売りが広がり、韓国のKOSPIが約6%下落して4,700前後となった。ソフトバンクグループは14%下落した。暗号資産も連動して下落し、ビットコインは5万9,300ドル前後で取引され、再び6万ドルを割り込んだ。ビットコインは11月に入って約24%下落している。</description>
     </item>
     <item>
+      <title>米ビットコイン現物ETF、11月の資金流出は49.4億ドル　開始以来最大のペース</title>
+      <link>https://invest.pug-o.jp/news/bitcoin-etf-outflow-november-2026.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/bitcoin-etf-outflow-november-2026.html</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 +0900</pubDate>
+      <description>米国のビットコイン現物ETFからの資金流出が続いている。ブルームバーグの集計によると、11月の純流出額は24日時点で49億4,000万ドルに達し、2024年1月の取引開始以来、月間では最大の流出ペースとなっている。最大手のブラックロックのiShares Bitcoin Trustだけでも、11月の解約額は40億ドルを超えた。ビットコインは11月に約23%下落し、6万ドルを割り込む場面もあった。</description>
+    </item>
+    <item>
+      <title>日経平均、午前終値は875円高の5万7,886円　前日の大幅安から反発</title>
+      <link>https://invest.pug-o.jp/news/nikkei-morning-close-1126.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/nikkei-morning-close-1126.html</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 +0900</pubDate>
+      <description>26日午前の東京株式市場で、日経平均株価は反発し、午前終値は前日比875円33銭高の5万7,886円95銭だった。上げ幅は一時1,200円を超え、5万8,000円台を回復する場面があった。25日の米株式市場でダウ工業株30種平均が3日続伸した流れを受け、AI・半導体関連株を中心に買い戻しが広がった。TOPIXも26.78ポイント高の3,772.98だった。</description>
+    </item>
+    <item>
       <title>日経平均、午前は800円超高　11時時点は5万7,829円</title>
       <link>https://invest.pug-o.jp/news/nikkei-morning-november-26.html</link>
       <guid isPermaLink="true">https://invest.pug-o.jp/news/nikkei-morning-november-26.html</guid>
@@ -131,20 +145,6 @@
       <guid isPermaLink="true">https://invest.pug-o.jp/news/tamura-boj-rate-hike-remark.html</guid>
       <pubDate>Thu, 26 Nov 2026 11:00:00 +0900</pubDate>
       <description>日本銀行の田村直樹審議委員は26日、山梨県金融経済懇談会で講演し、金融環境は依然として緩和的な状態にあるとして、政策金利を中立水準に早く持っていく必要があると述べた。基調的な物価上昇率の2％目標への定着度合いが低い中で、物価の上振れの兆しには利上げペースの加速など俊敏に反応していくことが求められるとした。利上げの影響の見極めは丁寧に行う必要があるとしつつ、「ゆっくりではなく、悠々として急ぐことが求</description>
-    </item>
-    <item>
-      <title>iDeCo、12月1日から拠出限度額を引き上げ　企業年金なしの会社員は月6.2万円に</title>
-      <link>https://invest.pug-o.jp/news/ideco-expansion-december-2026.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/ideco-expansion-december-2026.html</guid>
-      <pubDate>Thu, 26 Nov 2026 10:00:00 +0900</pubDate>
-      <description>厚生労働省は23日、個人型確定拠出年金（iDeCo）の制度拡充を12月1日から施行すると発表した。毎月の拠出限度額を引き上げるとともに、加入できる年齢の上限を広げる。企業年金がない会社員の拠出限度額は月2万3,000円から月6万2,000円に、自営業者らは国民年金基金などとの合計で月6万8,000円から月7万5,000円になる。掛金は引き続き全額が所得控除の対象となる。</description>
-    </item>
-    <item>
-      <title>日銀の基調的インフレ指標、10月は前年比3.5%上昇　3年ぶりの高水準</title>
-      <link>https://invest.pug-o.jp/news/boj-underlying-inflation-october.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/boj-underlying-inflation-october.html</guid>
-      <pubDate>Thu, 26 Nov 2026 10:00:00 +0900</pubDate>
-      <description>日本銀行が25日に公表した報告書によると、生鮮食品と特殊要因を除いた消費者物価は10月に前年同月比3.5%上昇し、2023年9月以来の速い伸びとなった。9月の上昇率は3.2%だった。同じ日に公表された10月の企業向けサービス価格指数も前年比4.2%上昇し、1990年以来の大幅な伸びとなった。総務省が発表した10月の生鮮食品を除く消費者物価指数は前年比2.2%の上昇だった。</description>
     </item>
   </channel>
 </rss>
