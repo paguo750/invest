@@ -383,6 +383,21 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://invest.pug-o.jp/news/kadoya-seiyu-tob-update-1126.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/news/pension-fy2027-increase-below-1pct.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/news/ownersbook-ookayama-fund.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://invest.pug-o.jp/tags/COZUCHI.html</loc>
     <lastmod>2026-11-27</lastmod>
     <priority>0.5</priority>
@@ -463,6 +478,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://invest.pug-o.jp/tags/TOB.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://invest.pug-o.jp/tags/TOPIX.html</loc>
     <lastmod>2026-11-27</lastmod>
     <priority>0.5</priority>
@@ -474,6 +494,11 @@
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/iDeCo.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/かどや製油.html</loc>
     <lastmod>2026-11-27</lastmod>
     <priority>0.5</priority>
   </url>
@@ -544,6 +569,11 @@
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/ホテル.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/マクロ経済スライド.html</loc>
     <lastmod>2026-11-27</lastmod>
     <priority>0.5</priority>
   </url>
