@@ -5,7 +5,7 @@
     <link>https://invest.pug-o.jp/news/</link>
     <description>投資関連ニュースの要約と、指数・銘柄の指標を整理するサイト「投資のしっぽ」の更新情報です。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 26 Nov 2026 14:13:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:13:00 +0900</lastBuildDate>
     <item>
       <title>米ベージュブック、12地区中8地区で経済が拡大　物価は緩やかな上昇</title>
       <link>https://invest.pug-o.jp/news/fed-beige-book-november.html</link>
@@ -98,6 +98,34 @@
       <description>25日のアジア市場では、AI関連株への売りが広がり、韓国のKOSPIが約6%下落して4,700前後となった。ソフトバンクグループは14%下落した。暗号資産も連動して下落し、ビットコインは5万9,300ドル前後で取引され、再び6万ドルを割り込んだ。ビットコインは11月に入って約24%下落している。</description>
     </item>
     <item>
+      <title>中国の公募REITが100銘柄に到達　民営房企初の商業不動産REITが上海に上場</title>
+      <link>https://invest.pug-o.jp/news/china-public-reit-100th-listing.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/china-public-reit-100th-listing.html</guid>
+      <pubDate>Thu, 26 Nov 2026 15:00:00 +0900</pubDate>
+      <description>中国の公募REIT（不動産投資信託）は、11月25日に広発新城吾悦商業REITが上海証券取引所に上場したことで、上場銘柄数が100銘柄に到達した。発行総規模は合計2,642億7,000万元。この銘柄は民営の不動産開発会社が手がける初の商業不動産公募REITで、初日の終値は3.138元と発行価格を1.03％上回った。</description>
+    </item>
+    <item>
+      <title>SBI・三井住友FG・ソラナ財団の合弁「SBI Solana Global」が本格始動　ステーブルコイン決済など4領域</title>
+      <link>https://invest.pug-o.jp/news/sbi-solana-global-launch.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/sbi-solana-global-launch.html</guid>
+      <pubDate>Thu, 26 Nov 2026 15:00:00 +0900</pubDate>
+      <description>SBIホールディングスと三井住友フィナンシャルグループ、ソラナ財団は25日、合弁会社「SBI Solana Global」が本格始動したと発表した。旧SBI R3 Japanを商号変更した会社で、3社は新たな合弁体制への移行契約を完了した。事業の柱は、ステーブルコインを活用した決済、金融資産のトークン化、実物資産のトークン化、オンチェーン資産運用の4領域で、日本を起点にアジアや世界への展開を目指す</description>
+    </item>
+    <item>
+      <title>ギャラクシー、ビットコインの底打ち判断を撤回　6月安値割れを警戒</title>
+      <link>https://invest.pug-o.jp/news/galaxy-bitcoin-bottom-call-withdrawn.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/galaxy-bitcoin-bottom-call-withdrawn.html</guid>
+      <pubDate>Thu, 26 Nov 2026 15:00:00 +0900</pubDate>
+      <description>米ギャラクシー・デジタルのリサーチ部門は25日公開のレポートで、ビットコインの弱気相場が6月に終わったとする10月の見解を撤回した。ビットコインは11月8日までの週に終値で50週移動平均線を割り込み、翌週には200週移動平均線も下回った。21日には5万5,100ドルまで下げ、22日までの週の終値は6万1,104ドルだった。</description>
+    </item>
+    <item>
+      <title>平和不動産リート、公募増資の発行価格を11万5,410円に決定　南品川のオフィス3物件を取得へ</title>
+      <link>https://invest.pug-o.jp/news/heiwa-reit-po-price-1126.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/heiwa-reit-po-price-1126.html</guid>
+      <pubDate>Thu, 26 Nov 2026 15:00:00 +0900</pubDate>
+      <description>平和不動産リート投資法人は、公募増資による新投資口の発行価格を11万5,410円に決定した。新投資口は5万4,300口で、オーバーアロットメントによる売出しは最大2,700口。調達した資金は、東京都品川区のオフィスビル3物件の取得資金の一部に充てる。取得予定価格は合計101億4,000万円で、取得予定日は12月4日としている。</description>
+    </item>
+    <item>
       <title>ケネディクスの戸建て賃貸REIT、上場を取りやめ　25日が上場予定日だった</title>
       <link>https://invest.pug-o.jp/news/kdx-kolet-reit-ipo-withdrawn.html</link>
       <guid isPermaLink="true">https://invest.pug-o.jp/news/kdx-kolet-reit-ipo-withdrawn.html</guid>
@@ -117,34 +145,6 @@
       <guid isPermaLink="true">https://invest.pug-o.jp/news/jimoto-reit-28-sokoji-acquisition.html</guid>
       <pubDate>Thu, 26 Nov 2026 13:00:00 +0900</pubDate>
       <description>地主プライベートリート投資法人（地主リート）は、底地28物件を取得する。取得総額は368億3,400万円。発表は2026年11月25日。</description>
-    </item>
-    <item>
-      <title>三菱地所物流リート、愛知・岡崎の物流施設を53.96億円で取得　取得日は11月26日</title>
-      <link>https://invest.pug-o.jp/news/mitsubishi-logistics-reit-okazaki.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/mitsubishi-logistics-reit-okazaki.html</guid>
-      <pubDate>Thu, 26 Nov 2026 13:00:00 +0900</pubDate>
-      <description>三菱地所物流リート投資法人は11月24日、愛知県岡崎市にある物流施設「MJロジパーク岡崎1」の信託受益権を取得すると発表した。取得予定価格は53億9,600万円で、取得予定日は11月26日。鑑定評価額は61億9,000万円（2026年10月31日時点）、鑑定NOI利回りは5.1%と公表されている。取得資金は借入金と手元資金でまかなう。</description>
-    </item>
-    <item>
-      <title>bitFlyer、MEXCとの暗号資産の送受取を12月7日から停止　米FinCENの命令を受けて</title>
-      <link>https://invest.pug-o.jp/news/bitflyer-mexc-transfer-suspension.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/bitflyer-mexc-transfer-suspension.html</guid>
-      <pubDate>Thu, 26 Nov 2026 13:00:00 +0900</pubDate>
-      <description>暗号資産取引所のbitFlyerは25日、海外取引所MEXC Globalとの暗号資産の送付・受取を2026年12月7日から停止すると発表した。米財務省の金融犯罪取締ネットワーク（FinCEN）が11月6日にMEXCをマネー・ローンダリング上の主要な懸念先に指定し、米国の金融機関に資金の送受取を禁じる命令を出したことを受けた措置。停止の対象は送付と受取の双方で、登録済みの送付先アドレスへの送付も止</description>
-    </item>
-    <item>
-      <title>米ビットコイン現物ETF、11月の資金流出は49.4億ドル　開始以来最大のペース</title>
-      <link>https://invest.pug-o.jp/news/bitcoin-etf-outflow-november-2026.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/bitcoin-etf-outflow-november-2026.html</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 +0900</pubDate>
-      <description>米国のビットコイン現物ETFからの資金流出が続いている。ブルームバーグの集計によると、11月の純流出額は24日時点で49億4,000万ドルに達し、2024年1月の取引開始以来、月間では最大の流出ペースとなっている。最大手のブラックロックのiShares Bitcoin Trustだけでも、11月の解約額は40億ドルを超えた。ビットコインは11月に約23%下落し、6万ドルを割り込む場面もあった。</description>
-    </item>
-    <item>
-      <title>日経平均、午前終値は875円高の5万7,886円　前日の大幅安から反発</title>
-      <link>https://invest.pug-o.jp/news/nikkei-morning-close-1126.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/nikkei-morning-close-1126.html</guid>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 +0900</pubDate>
-      <description>26日午前の東京株式市場で、日経平均株価は反発し、午前終値は前日比875円33銭高の5万7,886円95銭だった。上げ幅は一時1,200円を超え、5万8,000円台を回復する場面があった。25日の米株式市場でダウ工業株30種平均が3日続伸した流れを受け、AI・半導体関連株を中心に買い戻しが広がった。TOPIXも26.78ポイント高の3,772.98だった。</description>
     </item>
   </channel>
 </rss>
