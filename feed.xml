@@ -5,7 +5,14 @@
     <link>https://invest.pug-o.jp/news/</link>
     <description>投資関連ニュースの要約と、指数・銘柄の指標を整理するサイト「投資のしっぽ」の更新情報です。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 01:18:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 05:12:00 +0900</lastBuildDate>
+    <item>
+      <title>NISAの非課税枠、売却年の復活は見送りへ　政府・与党方針</title>
+      <link>https://invest.pug-o.jp/news/nisa-limit-revival-shelved.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/nisa-limit-revival-shelved.html</guid>
+      <pubDate>Fri, 27 Nov 2026 05:00:00 +0900</pubDate>
+      <description>政府・与党は2027年度税制改正で、NISAの保有商品を売却した年に、売却分の非課税枠をその年の中で再び使えるようにする案を見送る方針だ。金融庁は、売却したその年に枠を復活させるよう要望していたが、財務省は喫緊の課題ではないとして見送る方向で調整している。現行制度では、売却した分の枠は翌年以降に復活する仕組みが維持される見通しだ。</description>
+    </item>
     <item>
       <title>メタマスクのステーブルコイン決済カード、日本で提供開始　mUSDでマスターカード加盟店を利用可能に</title>
       <link>https://invest.pug-o.jp/news/metamask-card-japan-launch.html</link>
@@ -138,13 +145,6 @@
       <guid isPermaLink="true">https://invest.pug-o.jp/news/tamura-boj-december-hike-presser.html</guid>
       <pubDate>Thu, 26 Nov 2026 22:00:00 +0900</pubDate>
       <description>日本銀行の田村直樹審議委員は26日、山梨県金融経済懇談会後の記者会見で、今後の利上げは数カ月に一度、0.25％ずつを基本的に念頭に置いていると述べた。9月の利上げについて、金融環境への影響の判断が3カ月でつく場合も「十分ある」とし、12月17・18日の金融政策決定会合での利上げの可能性に含みを残した。物価の上振れリスクが顕在化する確度が高まれば、まず利上げの頻度を引き上げ、それでもリスクが残るよう</description>
-    </item>
-    <item>
-      <title>オリックス不動産投資顧問、大阪のオフィス大規模改修を完了　新ブランド「CORVIA」を制定</title>
-      <link>https://invest.pug-o.jp/news/orix-corvia-yotsubashi-renovation.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/orix-corvia-yotsubashi-renovation.html</guid>
-      <pubDate>Thu, 26 Nov 2026 18:00:00 +0900</pubDate>
-      <description>オリックス不動産投資顧問は、エクイティコミットメント型不動産バリューアッドファンド「ORIVA I」が取得した大阪市西区のオフィスビル「CORVIA YOTSUBASHI」の大規模リノベーションを完了した。あわせて新たなオフィスブランド「CORVIA（コーヴィア）」を制定し、今後の取得物件にも展開する。同ファンドは2025年1月に組成され、出資約束金額は当初目標を上回る約400億円で、累計約1,2</description>
     </item>
   </channel>
 </rss>

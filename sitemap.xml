@@ -378,6 +378,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://invest.pug-o.jp/news/nisa-limit-revival-shelved.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://invest.pug-o.jp/tags/COZUCHI.html</loc>
     <lastmod>2026-11-27</lastmod>
     <priority>0.5</priority>
@@ -424,6 +429,11 @@
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/MetaMask.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/NISA.html</loc>
     <lastmod>2026-11-27</lastmod>
     <priority>0.5</priority>
   </url>
@@ -654,6 +664,11 @@
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/物流施設.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/税制改正.html</loc>
     <lastmod>2026-11-27</lastmod>
     <priority>0.5</priority>
   </url>
