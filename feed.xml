@@ -5,7 +5,7 @@
     <link>https://invest.pug-o.jp/news/</link>
     <description>投資関連ニュースの要約と、指数・銘柄の指標を整理するサイト「投資のしっぽ」の更新情報です。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 26 Nov 2026 10:14:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 11:16:00 +0900</lastBuildDate>
     <item>
       <title>米ベージュブック、12地区中8地区で経済が拡大　物価は緩やかな上昇</title>
       <link>https://invest.pug-o.jp/news/fed-beige-book-november.html</link>
@@ -98,6 +98,41 @@
       <description>25日のアジア市場では、AI関連株への売りが広がり、韓国のKOSPIが約6%下落して4,700前後となった。ソフトバンクグループは14%下落した。暗号資産も連動して下落し、ビットコインは5万9,300ドル前後で取引され、再び6万ドルを割り込んだ。ビットコインは11月に入って約24%下落している。</description>
     </item>
     <item>
+      <title>日経平均、午前は800円超高　11時時点は5万7,829円</title>
+      <link>https://invest.pug-o.jp/news/nikkei-morning-november-26.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/nikkei-morning-november-26.html</guid>
+      <pubDate>Thu, 26 Nov 2026 11:00:00 +0900</pubDate>
+      <description>26日の東京株式市場で、日経平均株価は午前の取引で反発した。11時時点では前日比818円10銭高の5万7,829円72銭。10時30分時点では1,131円82銭高の5万8,143円44銭まで上げていた。TOPIXも11時時点で30.31ポイント高の3,776.51だった。前日25日は1,633円安と大幅に下落していた。</description>
+    </item>
+    <item>
+      <title>プロロジスリート、古河の物流施設3物件を345億円で取得へ</title>
+      <link>https://invest.pug-o.jp/news/prologis-reit-koga-acquisition.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/prologis-reit-koga-acquisition.html</guid>
+      <pubDate>Thu, 26 Nov 2026 11:00:00 +0900</pubDate>
+      <description>日本プロロジスリート投資法人は、茨城県古河市にある物流施設3物件の取得に向けた売買契約を締結した。取得価格は合計345億円。26日付の日経不動産マーケット情報が報じた。</description>
+    </item>
+    <item>
+      <title>フィデリティ、現物チェーンリンクETFをSECに申請　ナスダック上場を予定</title>
+      <link>https://invest.pug-o.jp/news/fidelity-spot-chainlink-etf-filing.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/fidelity-spot-chainlink-etf-filing.html</guid>
+      <pubDate>Thu, 26 Nov 2026 11:00:00 +0900</pubDate>
+      <description>米資産運用大手フィデリティは25日、現物のチェーンリンク（LINK）に連動する上場投資信託（ETF）「フィデリティ・チェーンリンク・ファンド」の設立に向け、米証券取引委員会（SEC）に登録届出書（フォームS-1）を提出した。ファンドはLINKを直接保有し、費用控除後の価格に連動することを目指す。ナスダックへの上場を予定し、ティッカーはFLNKを提案している。保有するLINKのステーキングは行わない</description>
+    </item>
+    <item>
+      <title>韓国中銀、政策金利を3.25％に引き上げ　今年3回目</title>
+      <link>https://invest.pug-o.jp/news/bank-of-korea-rate-hike-november.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/bank-of-korea-rate-hike-november.html</guid>
+      <pubDate>Thu, 26 Nov 2026 11:00:00 +0900</pubDate>
+      <description>韓国銀行（中央銀行）は26日、金融通貨委員会を開き、政策金利を0.25％引き上げ年3.25％とすることを決めた。利上げは今年3回目。半導体の輸出好調に伴って成長持続が見込まれる中、物価上昇率が政策目標の2％を上回って推移している。韓国銀行は今年7月に2023年1月以来3年半ぶりの利上げを決め、8月も引き上げた。10月は2回の利上げの影響を見極めるとして据え置いていた。</description>
+    </item>
+    <item>
+      <title>田村日銀審議委員、利上げは「悠々として急ぐ」　中立水準へ早く</title>
+      <link>https://invest.pug-o.jp/news/tamura-boj-rate-hike-remark.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/tamura-boj-rate-hike-remark.html</guid>
+      <pubDate>Thu, 26 Nov 2026 11:00:00 +0900</pubDate>
+      <description>日本銀行の田村直樹審議委員は26日、山梨県金融経済懇談会で講演し、金融環境は依然として緩和的な状態にあるとして、政策金利を中立水準に早く持っていく必要があると述べた。基調的な物価上昇率の2％目標への定着度合いが低い中で、物価の上振れの兆しには利上げペースの加速など俊敏に反応していくことが求められるとした。利上げの影響の見極めは丁寧に行う必要があるとしつつ、「ゆっくりではなく、悠々として急ぐことが求</description>
+    </item>
+    <item>
       <title>iDeCo、12月1日から拠出限度額を引き上げ　企業年金なしの会社員は月6.2万円に</title>
       <link>https://invest.pug-o.jp/news/ideco-expansion-december-2026.html</link>
       <guid isPermaLink="true">https://invest.pug-o.jp/news/ideco-expansion-december-2026.html</guid>
@@ -110,41 +145,6 @@
       <guid isPermaLink="true">https://invest.pug-o.jp/news/boj-underlying-inflation-october.html</guid>
       <pubDate>Thu, 26 Nov 2026 10:00:00 +0900</pubDate>
       <description>日本銀行が25日に公表した報告書によると、生鮮食品と特殊要因を除いた消費者物価は10月に前年同月比3.5%上昇し、2023年9月以来の速い伸びとなった。9月の上昇率は3.2%だった。同じ日に公表された10月の企業向けサービス価格指数も前年比4.2%上昇し、1990年以来の大幅な伸びとなった。総務省が発表した10月の生鮮食品を除く消費者物価指数は前年比2.2%の上昇だった。</description>
-    </item>
-    <item>
-      <title>COZUCHIの登録投資家数が10万人を突破　記念キャンペーンと新ファンド2件を発表</title>
-      <link>https://invest.pug-o.jp/news/cozuchi-100k-investors.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/cozuchi-100k-investors.html</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0900</pubDate>
-      <description>不動産クラウドファンディング「COZUCHI」を運営するLAETOLIは、2026年9月をもって累計登録投資家数が10万人を突破したと発表した。あわせて、50万円以上の出資者を対象とした抽選の記念優待ギフトキャンペーンを実施する。対象ファンドは「No.C-146 三軒茶屋1丁目開発プロジェクト フェーズ2」と「No.C-147 本駒込2丁目プロジェクト」の2件。</description>
-    </item>
-    <item>
-      <title>ビットコインが5万8,000ドル台まで下落　レバレッジの買い持ち約1億1,000万ドルが清算</title>
-      <link>https://invest.pug-o.jp/news/bitcoin-retest-58000.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/bitcoin-retest-58000.html</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0900</pubDate>
-      <description>ビットコインは25日、5万8,000ドル台まで下落し、6万ドルの大台を割り込んだ後の安値圏での推移が続いた。24時間で約2.7%下落し、価格は5万9,000ドル前後で推移した。米国のビットコイン現物ETFからは11月に47億ドルを超える資金流出が記録されており、月間の流出額としては過去最大となっている。</description>
-    </item>
-    <item>
-      <title>9月の新規貸出金利は2.120%　約30年ぶりの高水準、日銀が発表</title>
-      <link>https://invest.pug-o.jp/news/boj-lending-rate-september.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/boj-lending-rate-september.html</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0900</pubDate>
-      <description>日銀は25日、国内銀行が企業などへの新規貸し出しに適用した平均金利が、9月は2.120%だったと発表した。前月から0.338ポイント上昇し、1996年5月以来およそ30年ぶりの高水準となった。日銀は今年6月と9月に利上げを行い、政策金利は1.25%となっている。貸出額は増加基調が続いている。</description>
-    </item>
-    <item>
-      <title>米7〜9月期の実質GDP、改定値は年率4.3%増　速報値から0.9ポイント上方修正</title>
-      <link>https://invest.pug-o.jp/news/us-gdp-q3-second-estimate.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/us-gdp-q3-second-estimate.html</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0900</pubDate>
-      <description>米商務省経済分析局（BEA）が25日に発表した2026年7〜9月期の実質GDP（改定値）は、年率換算で前期比4.3%増となった。先月発表の速報値3.4%から0.9ポイントの上方修正で、3年ぶりの高い伸びとなった。個人消費と企業の設備投資の上方修正が主な要因とされる。4〜6月期の伸びは2.2%だった。</description>
-    </item>
-    <item>
-      <title>米10月PCE物価は前年比3.8%上昇　コアは3.3%に加速、2023年11月以来の高さ</title>
-      <link>https://invest.pug-o.jp/news/us-pce-october-2026.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/us-pce-october-2026.html</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0900</pubDate>
-      <description>米商務省が25日に発表した10月の個人消費支出（PCE）物価指数は、前年同月比3.8%上昇した。前月（3.6%）から伸びが拡大した。食品とエネルギーを除くコアPCE物価指数は同3.3%上昇し、市場予想の3.2%を上回った。前月比では総合・コアとも0.3%上昇した。個人所得は前月比0.7%増、個人消費支出は同0.3%増だった。</description>
     </item>
   </channel>
 </rss>
