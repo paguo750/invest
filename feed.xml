@@ -5,7 +5,7 @@
     <link>https://invest.pug-o.jp/news/</link>
     <description>投資関連ニュースの要約と、指数・銘柄の指標を整理するサイト「投資のしっぽ」の更新情報です。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 26 Nov 2026 14:03:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:13:00 +0900</lastBuildDate>
     <item>
       <title>米ベージュブック、12地区中8地区で経済が拡大　物価は緩やかな上昇</title>
       <link>https://invest.pug-o.jp/news/fed-beige-book-november.html</link>
@@ -98,6 +98,20 @@
       <description>25日のアジア市場では、AI関連株への売りが広がり、韓国のKOSPIが約6%下落して4,700前後となった。ソフトバンクグループは14%下落した。暗号資産も連動して下落し、ビットコインは5万9,300ドル前後で取引され、再び6万ドルを割り込んだ。ビットコインは11月に入って約24%下落している。</description>
     </item>
     <item>
+      <title>ケネディクスの戸建て賃貸REIT、上場を取りやめ　25日が上場予定日だった</title>
+      <link>https://invest.pug-o.jp/news/kdx-kolet-reit-ipo-withdrawn.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/kdx-kolet-reit-ipo-withdrawn.html</guid>
+      <pubDate>Thu, 26 Nov 2026 14:00:00 +0900</pubDate>
+      <description>ケネディクスが運用するKDX Kolet投資法人は、戸建て賃貸住宅を対象とするREITの新規上場を取りやめた。11月25日に上場する予定だったが、11月9日に東証の上場承認が取り消された。理由は不安定な株式市場の状況で、ケネディクスは上場時期を改めて判断するとしている。取得を予定していた物件は約919億円、2,281戸の規模だった。</description>
+    </item>
+    <item>
+      <title>日経平均、一時1,000円超高で5万8,000円を回復</title>
+      <link>https://invest.pug-o.jp/news/nikkei-58000-intraday-1126.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/nikkei-58000-intraday-1126.html</guid>
+      <pubDate>Thu, 26 Nov 2026 14:00:00 +0900</pubDate>
+      <description>26日の東京株式市場で、日経平均株価の前日終値からの上げ幅が一時1,000円を超え、5万8,000円を回復した。前日は1,633円安と大幅に下落しており、その反動で買いが広がった。午前終値は875円高の5万7,886円で、後場寄り付きは798円高の5万7,810円だった。</description>
+    </item>
+    <item>
       <title>地主リート、底地28物件を368億円で取得</title>
       <link>https://invest.pug-o.jp/news/jimoto-reit-28-sokoji-acquisition.html</link>
       <guid isPermaLink="true">https://invest.pug-o.jp/news/jimoto-reit-28-sokoji-acquisition.html</guid>
@@ -131,20 +145,6 @@
       <guid isPermaLink="true">https://invest.pug-o.jp/news/nikkei-morning-close-1126.html</guid>
       <pubDate>Thu, 26 Nov 2026 12:00:00 +0900</pubDate>
       <description>26日午前の東京株式市場で、日経平均株価は反発し、午前終値は前日比875円33銭高の5万7,886円95銭だった。上げ幅は一時1,200円を超え、5万8,000円台を回復する場面があった。25日の米株式市場でダウ工業株30種平均が3日続伸した流れを受け、AI・半導体関連株を中心に買い戻しが広がった。TOPIXも26.78ポイント高の3,772.98だった。</description>
-    </item>
-    <item>
-      <title>日経平均、午前は800円超高　11時時点は5万7,829円</title>
-      <link>https://invest.pug-o.jp/news/nikkei-morning-november-26.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/nikkei-morning-november-26.html</guid>
-      <pubDate>Thu, 26 Nov 2026 11:00:00 +0900</pubDate>
-      <description>26日の東京株式市場で、日経平均株価は午前の取引で反発した。11時時点では前日比818円10銭高の5万7,829円72銭。10時30分時点では1,131円82銭高の5万8,143円44銭まで上げていた。TOPIXも11時時点で30.31ポイント高の3,776.51だった。前日25日は1,633円安と大幅に下落していた。</description>
-    </item>
-    <item>
-      <title>プロロジスリート、古河の物流施設3物件を345億円で取得へ</title>
-      <link>https://invest.pug-o.jp/news/prologis-reit-koga-acquisition.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/prologis-reit-koga-acquisition.html</guid>
-      <pubDate>Thu, 26 Nov 2026 11:00:00 +0900</pubDate>
-      <description>日本プロロジスリート投資法人は、茨城県古河市にある物流施設3物件の取得に向けた売買契約を締結した。取得価格は合計345億円。26日付の日経不動産マーケット情報が報じた。</description>
     </item>
   </channel>
 </rss>
