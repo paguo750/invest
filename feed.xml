@@ -5,7 +5,42 @@
     <link>https://invest.pug-o.jp/news/</link>
     <description>投資関連ニュースの要約と、指数・銘柄の指標を整理するサイト「投資のしっぽ」の更新情報です。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 28 Nov 2026 02:15:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:17:00 +0900</lastBuildDate>
+    <item>
+      <title>金は3,670ドル台へ反発、銀は7%高の44ドル台　貴金属そろって上昇</title>
+      <link>https://invest.pug-o.jp/news/gold-silver-rebound-1128.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/gold-silver-rebound-1128.html</guid>
+      <pubDate>Sat, 28 Nov 2026 06:00:00 +0900</pubDate>
+      <description>27日の貴金属市場では金と銀がそろって大きく反発した。金は前日比で2.5%前後上昇し、1オンス＝3,670ドル台まで戻した。銀は7%前後上昇し、44ドル台をつけた。テクノロジー株の持ち直しで、損失補填のための金売りが一服したとの見方が報じられている。</description>
+    </item>
+    <item>
+      <title>サンケイリアルエステート、PEファンドが対抗提案の検討取りやめと発表</title>
+      <link>https://invest.pug-o.jp/news/sankei-reit-pe-counterproposal-dropped-1128.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/sankei-reit-pe-counterproposal-dropped-1128.html</guid>
+      <pubDate>Sat, 28 Nov 2026 06:00:00 +0900</pubDate>
+      <description>サンケイリアルエステート投資法人は27日、プライベートエクイティ（PE）ファンドから、投資口の非公開化に向けた対抗提案の検討を取りやめるとの意向表明を受けたと発表した。同PEファンドは、旧村上ファンド系のシティインデックスフィフスが実施中の公開買付け（TOB）に対抗する提案の提出を検討していた。シティインデックスフィフスのTOBは買付け価格1口12万5,000円で、期間は11月30日まで延長されて</description>
+    </item>
+    <item>
+      <title>米長期金利が4.92%へ上昇、ドル買い強まる　ユーロは下落</title>
+      <link>https://invest.pug-o.jp/news/us-treasury-yields-dollar-1128.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/us-treasury-yields-dollar-1128.html</guid>
+      <pubDate>Sat, 28 Nov 2026 06:00:00 +0900</pubDate>
+      <description>27日のニューヨーク外国為替市場では、米長期金利の上昇に連れてドル買いが強まった。米10年債利回りは4.88%から4.92%まで上昇し、ドル円は159円60銭まで上昇する場面があった。ユーロはフランスとスペインのインフレ鈍化を受けて売られ、欧州中央銀行（ECB）の追加利上げ観測が後退したと報じられている。</description>
+    </item>
+    <item>
+      <title>ビットコイン、6万1,000ドル台回復後に再び6万ドルを割り込む</title>
+      <link>https://invest.pug-o.jp/news/bitcoin-below-60000-again-1128.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/bitcoin-below-60000-again-1128.html</guid>
+      <pubDate>Sat, 28 Nov 2026 06:00:00 +0900</pubDate>
+      <description>ビットコインは27日、米株式市場の反発とともに一時6万1,000ドル台を回復した後、上げ幅を縮小し、6万ドルを割り込んだ。バイナンスのUSDT市場では5万9,977.92ドルまで下落したと報じられている。27日午前の時点では週間で0.6%高と報じられており、週末の終値がこの水準を維持すれば7週連続の週間下落が止まる流れにある。</description>
+    </item>
+    <item>
+      <title>NY株、短縮取引で3指数そろって上昇して終了　ダウは591ドル高</title>
+      <link>https://invest.pug-o.jp/news/ny-stocks-black-friday-close-1128.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/ny-stocks-black-friday-close-1128.html</guid>
+      <pubDate>Sat, 28 Nov 2026 06:00:00 +0900</pubDate>
+      <description>感謝祭明け27日のニューヨーク株式市場は、短縮取引で主要3指数そろって上昇して終えた。ダウ工業株30種平均は前営業日比591.99ドル（1.18%）高の5万774.94ドル、S&amp;P500は114.71ポイント（1.60%）高の7,297.49、ナスダック総合指数は543.70ポイント（2.31%）高の24,129.50だった。週間で大幅に下落していたAI関連銘柄に買い戻しが入ったと報じられている。</description>
+    </item>
     <item>
       <title>ドル円はNY序盤159円55銭前後　この日の高値159円58銭をつける</title>
       <link>https://invest.pug-o.jp/news/usd-jpy-ny-morning-1128.html</link>
@@ -110,41 +145,6 @@
       <guid isPermaLink="true">https://invest.pug-o.jp/news/sotetsu-jr-east-sendai-hotel-fund-1127.html</guid>
       <pubDate>Fri, 27 Nov 2026 22:00:00 +0900</pubDate>
       <description>相鉄不動産投資顧問とJR東日本不動産投資顧問は、共同で不動産私募ファンド「ジェイエス1号合同会社」を11月19日付で組成し、仙台市青葉区の「相鉄フレッサイン仙台」を取得したと27日に発表した。両グループが共同でファンドを組成するのは初めて。横浜銀行と七十七銀行が融資し、七十七キャピタルのファンドなどが出資した。ホテルは2022年開業の224室で、相鉄ホテルマネジメントが運営を続ける。</description>
-    </item>
-    <item>
-      <title>メタマスクのステーブルコイン決済カード、日本で提供開始　mUSDでマスターカード加盟店を利用可能に</title>
-      <link>https://invest.pug-o.jp/news/metamask-card-japan-launch.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/metamask-card-japan-launch.html</guid>
-      <pubDate>Fri, 27 Nov 2026 01:00:00 +0900</pubDate>
-      <description>暗号資産ウォレットのメタマスクは25日、ステーブルコイン決済カード「MetaMask Card」の日本向け提供を開始したと発表した。利用者はアプリ内の自己管理型口座の米ドル連動ステーブルコイン「mUSD」をマスターカード加盟店での支払いに充てることができ、決済時に円へ換算される。日本で申し込めるのは年会費無料のバーチャルカードで、国内加盟店でのmUSD利用時の決済手数料は無料とされている。カードは</description>
-    </item>
-    <item>
-      <title>スイス初のビットコイン現物ETFが上場　運用資産350BTC、欧州で唯一の現物ETFに</title>
-      <link>https://invest.pug-o.jp/news/switzerland-first-spot-bitcoin-etf.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/switzerland-first-spot-bitcoin-etf.html</guid>
-      <pubDate>Fri, 27 Nov 2026 01:00:00 +0900</pubDate>
-      <description>BIT Asset Managementは26日、スイス初となるビットコインの現物ETF「Bitcoin Fund ETF」の取引をSIX Swiss Exchangeで開始した。運用資産は350BTCで、ビットコインを直接保有するスイスの投資ファンドとして組成された。スイス金融市場監督機構（FINMA）は10月20日に承認しており、18カ月の審査を経たものだ。BIT Asset Manageme</description>
-    </item>
-    <item>
-      <title>ビットコインは一時6万ドル割れ　米現物ETFの11月流出は53.9億ドルで月間過去最大</title>
-      <link>https://invest.pug-o.jp/news/bitcoin-below-60000-etf-record-outflow.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/bitcoin-below-60000-etf-record-outflow.html</guid>
-      <pubDate>Fri, 27 Nov 2026 01:00:00 +0900</pubDate>
-      <description>代表的な暗号資産ビットコインは27日未明の東京時間に一時6万ドルを割り込んだあと、6万ドル台前半で推移している。米国のビットコイン現物ETFからは11月25日も4億5,300万ドル超の資金が流出し、流出は7営業日連続となった。11月の累計流出額は約53億9,000万ドルに達し、月間では過去最大となっている。米国市場は26日、感謝祭の祝日で休場だった。</description>
-    </item>
-    <item>
-      <title>TORCHES、データセンター用地ファンドを12月2日から募集　想定利回りは年22.0%</title>
-      <link>https://invest.pug-o.jp/news/torches-fund75-datacenter-1127.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/torches-fund75-datacenter-1127.html</guid>
-      <pubDate>Fri, 27 Nov 2026 19:00:00 +0900</pubDate>
-      <description>不動産投資型クラウドファンディングのTORCHES（トーチーズ）は、No.75「新潟県村上市 データセンター用地ファンド」を12月2日12時から先着順で募集する。投資対象は新潟県村上市本町のデータセンター事業用地で、募集金額は24億5,538万円、想定利回りは年22.0%、運用期間は約1年となっている。売却先企業との売買契約が締結済みの案件で、想定利回りと元本は保証されていない。</description>
-    </item>
-    <item>
-      <title>ドル円は19時時点で159円51銭前後　17時時点より17銭のドル高・円安</title>
-      <link>https://invest.pug-o.jp/news/usd-jpy-19pm-1127.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/usd-jpy-19pm-1127.html</guid>
-      <pubDate>Fri, 27 Nov 2026 19:00:00 +0900</pubDate>
-      <description>27日の外国為替市場でドル円相場は19時時点で1ドル＝159円51銭前後となり、17時時点に比べ17銭のドル高・円安で推移している。東京時間は159円台前半で小動きとなり、値幅は30銭未満にとどまった。米国は感謝祭翌日で株・債券ともに短縮取引となっている。</description>
     </item>
   </channel>
 </rss>
