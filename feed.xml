@@ -5,7 +5,7 @@
     <link>https://invest.pug-o.jp/news/</link>
     <description>投資関連ニュースの要約と、指数・銘柄の指標を整理するサイト「投資のしっぽ」の更新情報です。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 15:15:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 19:13:00 +0900</lastBuildDate>
     <item>
       <title>東証REIT指数は1,673.26　日経平均の反発と逆行して下落</title>
       <link>https://invest.pug-o.jp/news/tse-reit-index-1126.html</link>
@@ -91,6 +91,27 @@
       <description>代表的な暗号資産ビットコインは27日未明の東京時間に一時6万ドルを割り込んだあと、6万ドル台前半で推移している。米国のビットコイン現物ETFからは11月25日も4億5,300万ドル超の資金が流出し、流出は7営業日連続となった。11月の累計流出額は約53億9,000万ドルに達し、月間では過去最大となっている。米国市場は26日、感謝祭の祝日で休場だった。</description>
     </item>
     <item>
+      <title>TORCHES、データセンター用地ファンドを12月2日から募集　想定利回りは年22.0%</title>
+      <link>https://invest.pug-o.jp/news/torches-fund75-datacenter-1127.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/torches-fund75-datacenter-1127.html</guid>
+      <pubDate>Fri, 27 Nov 2026 19:00:00 +0900</pubDate>
+      <description>不動産投資型クラウドファンディングのTORCHES（トーチーズ）は、No.75「新潟県村上市 データセンター用地ファンド」を12月2日12時から先着順で募集する。投資対象は新潟県村上市本町のデータセンター事業用地で、募集金額は24億5,538万円、想定利回りは年22.0%、運用期間は約1年となっている。売却先企業との売買契約が締結済みの案件で、想定利回りと元本は保証されていない。</description>
+    </item>
+    <item>
+      <title>ドル円は19時時点で159円51銭前後　17時時点より17銭のドル高・円安</title>
+      <link>https://invest.pug-o.jp/news/usd-jpy-19pm-1127.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/usd-jpy-19pm-1127.html</guid>
+      <pubDate>Fri, 27 Nov 2026 19:00:00 +0900</pubDate>
+      <description>27日の外国為替市場でドル円相場は19時時点で1ドル＝159円51銭前後となり、17時時点に比べ17銭のドル高・円安で推移している。東京時間は159円台前半で小動きとなり、値幅は30銭未満にとどまった。米国は感謝祭翌日で株・債券ともに短縮取引となっている。</description>
+    </item>
+    <item>
+      <title>日経平均は終値5万8,711円11銭　前日比1,211円95銭高、25日の下げを2日で解消</title>
+      <link>https://invest.pug-o.jp/news/nikkei-close-1127.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/nikkei-close-1127.html</guid>
+      <pubDate>Fri, 27 Nov 2026 19:00:00 +0900</pubDate>
+      <description>27日の東京株式市場で日経平均株価は前日比1,211円95銭（2.11%）高の5万8,711円11銭で取引を終えた。TOPIXは64.80ポイント高の3,815.20だった。欧州株高や米株価指数先物の上昇、韓国株高を手がかりに買いが優勢となり、AI・半導体関連株が主導した。26日の米市場は感謝祭の祝日で休場だった。</description>
+    </item>
+    <item>
       <title>産業ファンド投資法人、佐賀県鳥栖市の工場を34億8,500万円で取得へ</title>
       <link>https://invest.pug-o.jp/news/iif-tosu-factory-acquisition-1127.html</link>
       <guid isPermaLink="true">https://invest.pug-o.jp/news/iif-tosu-factory-acquisition-1127.html</guid>
@@ -124,27 +145,6 @@
       <guid isPermaLink="true">https://invest.pug-o.jp/news/galaxy-bitcoin-bottom-call-retract.html</guid>
       <pubDate>Fri, 27 Nov 2026 14:00:00 +0900</pubDate>
       <description>米仮想通貨金融大手ギャラクシー・デジタルの調査部門は、ビットコインの弱気相場が2026年6月に終わったとする10月の見立てを撤回した。調査部門を率いるアレックス・ソーン氏が25日に公開したレポートで示された。撤回の理由は、9月に示した底打ちのサインが崩れたためで、ビットコインは11月8日までの週に50週移動平均を再び下回り、翌週には200週移動平均も割り込んだ。レポートは6月30日の終値安値5万8</description>
-    </item>
-    <item>
-      <title>ドル円は14時時点で159円28銭前後　前日比12銭の円安・ドル高</title>
-      <link>https://invest.pug-o.jp/news/usd-jpy-14pm-1127.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/usd-jpy-14pm-1127.html</guid>
-      <pubDate>Fri, 27 Nov 2026 14:00:00 +0900</pubDate>
-      <description>27日の外国為替市場のドル円相場は午後2時時点で1ドル＝159円28銭前後となり、前日午後5時時点に比べ12銭のドル高・円安で推移した。ユーロ円は1ユーロ＝174円75銭前後と11銭のユーロ高・円安だった。午後の東京市場ではドル円は159円20銭付近でのもみ合いが続いていた。</description>
-    </item>
-    <item>
-      <title>日経平均は14時時点で5万8,545円　前日比1,045円高、アドバンテストが292円押し上げ</title>
-      <link>https://invest.pug-o.jp/news/nikkei-14pm-1127.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/nikkei-14pm-1127.html</guid>
-      <pubDate>Fri, 27 Nov 2026 14:00:00 +0900</pubDate>
-      <description>27日14時現在の日経平均株価は、前日比1,045円85銭（1.82％）高の5万8,545円01銭で推移した。東証プライムの値上がり銘柄数は1,123、値下がりは381、変わらずは41で、値上がり銘柄数が値下がり銘柄数を大幅に上回った。日経平均へのプラス寄与度ではアドバンテストが292.34円と最も大きく、東京エレクトロンが121.36円、ソフトバンクグループが71.60円と続いた。</description>
-    </item>
-    <item>
-      <title>ドル円は13時時点で159円25銭前後　前日比9銭の円安・ドル高</title>
-      <link>https://invest.pug-o.jp/news/usd-jpy-13pm-1127.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/usd-jpy-13pm-1127.html</guid>
-      <pubDate>Fri, 27 Nov 2026 13:00:00 +0900</pubDate>
-      <description>27日の東京外国為替市場で、ドル円相場は13時時点で1ドル＝159円25銭〜159円26銭となった。前日比では9銭の円安・ドル高だった。ユーロ円は13時時点で1ユーロ＝174円79銭前後で推移していた。正午時点のドル円は1ドル＝159円19銭前後だった。</description>
     </item>
   </channel>
 </rss>
