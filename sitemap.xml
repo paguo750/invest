@@ -497,6 +497,26 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://invest.pug-o.jp/news/nikkei-15pm-1127.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/news/usd-jpy-15pm-1127.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/news/us-house-bitcoin-reserve-bill-1127.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/news/iif-tosu-factory-acquisition-1127.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://invest.pug-o.jp/tags/ASEAN+3.html</loc>
     <lastmod>2026-11-27</lastmod>
     <priority>0.5</priority>
@@ -853,6 +873,11 @@
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/物流施設.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/産業ファンド投資法人.html</loc>
     <lastmod>2026-11-27</lastmod>
     <priority>0.5</priority>
   </url>

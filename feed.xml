@@ -5,7 +5,7 @@
     <link>https://invest.pug-o.jp/news/</link>
     <description>投資関連ニュースの要約と、指数・銘柄の指標を整理するサイト「投資のしっぽ」の更新情報です。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 14:12:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 15:15:00 +0900</lastBuildDate>
     <item>
       <title>東証REIT指数は1,673.26　日経平均の反発と逆行して下落</title>
       <link>https://invest.pug-o.jp/news/tse-reit-index-1126.html</link>
@@ -91,6 +91,34 @@
       <description>代表的な暗号資産ビットコインは27日未明の東京時間に一時6万ドルを割り込んだあと、6万ドル台前半で推移している。米国のビットコイン現物ETFからは11月25日も4億5,300万ドル超の資金が流出し、流出は7営業日連続となった。11月の累計流出額は約53億9,000万ドルに達し、月間では過去最大となっている。米国市場は26日、感謝祭の祝日で休場だった。</description>
     </item>
     <item>
+      <title>産業ファンド投資法人、佐賀県鳥栖市の工場を34億8,500万円で取得へ</title>
+      <link>https://invest.pug-o.jp/news/iif-tosu-factory-acquisition-1127.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/iif-tosu-factory-acquisition-1127.html</guid>
+      <pubDate>Fri, 27 Nov 2026 15:00:00 +0900</pubDate>
+      <description>米KKR系の産業ファンド投資法人は、佐賀県鳥栖市にある工場を取得する。取得価格は34億8,500万円で、売買契約は11月25日に締結し、取得は12月1日を予定している。対象はパナソニックコネクトの旧佐賀工場で、現在はネットワークカメラメーカーのi-PROが製造拠点として使用している。鑑定評価額は42億9,000万円、鑑定NOIは1億9,000万円でNOI利回りは5.5％とされる。賃貸可能面積は2万</description>
+    </item>
+    <item>
+      <title>米下院金融サービス委員会、ビットコイン準備金法案を正式報告　本会議の採決対象に</title>
+      <link>https://invest.pug-o.jp/news/us-house-bitcoin-reserve-bill-1127.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/us-house-bitcoin-reserve-bill-1127.html</guid>
+      <pubDate>Fri, 27 Nov 2026 15:00:00 +0900</pubDate>
+      <description>米下院金融サービス委員会は、戦略的ビットコイン準備金を連邦法に明記する「2026年米国準備金近代化法案（H.R. 8957）」を11月24日に正式に報告し、下院の議事日程（ユニオン・カレンダー）に掲載した。同法案は財務長官に対し、法律の成立から180日以内に戦略的ビットコイン準備金とデジタル資産備蓄を設置するよう求めるもので、準備金に預けられたビットコインは成立後少なくとも20年間、売却や交換など</description>
+    </item>
+    <item>
+      <title>ドル円は15時時点で159円34銭　12時時点より15銭のドル高水準</title>
+      <link>https://invest.pug-o.jp/news/usd-jpy-15pm-1127.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/usd-jpy-15pm-1127.html</guid>
+      <pubDate>Fri, 27 Nov 2026 15:00:00 +0900</pubDate>
+      <description>27日午後の東京外国為替市場でドル円は強含みとなり、15時時点では159円34銭となった。12時時点の159円19銭と比べ15銭程度のドル高水準。時間外のWTI原油先物価格が86ドル台まで上昇し、米10年債利回りも4.91％台まで上昇したことがドル買いを支えた。一方、27日のニューヨーク市場は感謝祭翌日で短縮取引となるため、上値は限定的だった。</description>
+    </item>
+    <item>
+      <title>日経平均は15時時点で5万8,638円27銭　前日比1,139円11銭高、上げ幅1,100円超</title>
+      <link>https://invest.pug-o.jp/news/nikkei-15pm-1127.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/nikkei-15pm-1127.html</guid>
+      <pubDate>Fri, 27 Nov 2026 15:00:00 +0900</pubDate>
+      <description>27日午後の東京株式市場で日経平均株価は15時時点で5万8,638円27銭となり、前日比1,139円11銭高となった。TOPIXは3,817.26で前日比66.86高。欧州株高の流れや米ナスダック先物の上昇を受け、AI・半導体関連を中心に買いが広がり、14時7分には一時1,219円73銭高の5万8,718円89銭まで上昇した。</description>
+    </item>
+    <item>
       <title>ギャラクシー・デジタル、ビットコインの底打ち見立てを撤回と報道</title>
       <link>https://invest.pug-o.jp/news/galaxy-bitcoin-bottom-call-retract.html</link>
       <guid isPermaLink="true">https://invest.pug-o.jp/news/galaxy-bitcoin-bottom-call-retract.html</guid>
@@ -117,34 +145,6 @@
       <guid isPermaLink="true">https://invest.pug-o.jp/news/usd-jpy-13pm-1127.html</guid>
       <pubDate>Fri, 27 Nov 2026 13:00:00 +0900</pubDate>
       <description>27日の東京外国為替市場で、ドル円相場は13時時点で1ドル＝159円25銭〜159円26銭となった。前日比では9銭の円安・ドル高だった。ユーロ円は13時時点で1ユーロ＝174円79銭前後で推移していた。正午時点のドル円は1ドル＝159円19銭前後だった。</description>
-    </item>
-    <item>
-      <title>日経平均は13時時点で5万8,566円22銭　前日比1,067円06銭高、上げ幅が1,000円を超える</title>
-      <link>https://invest.pug-o.jp/news/nikkei-13pm-1127.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/nikkei-13pm-1127.html</guid>
-      <pubDate>Fri, 27 Nov 2026 13:00:00 +0900</pubDate>
-      <description>27日の東京株式市場で日経平均株価は後場に入って上げ幅を広げ、13時時点で前日比1,067円06銭高の5万8,566円22銭となった。後場寄り付きは前日比984円98銭高の5万8,484円14銭で、12時34分には上げ幅が一時1,000円を超えたと報じられた。TOPIXも13時時点で前日比70円42銭高の3,820.82だった。</description>
-    </item>
-    <item>
-      <title>ビットコインの月次オプション、約69億ドル分が27日17時に満期　デリビットで11万2,323BTC</title>
-      <link>https://invest.pug-o.jp/news/bitcoin-options-expiry-1127.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/bitcoin-options-expiry-1127.html</guid>
-      <pubDate>Fri, 27 Nov 2026 12:00:00 +0900</pubDate>
-      <description>暗号資産取引所デリビットで、ビットコインの月次オプション約11万2,323BTC（名目価値で約68億ドル）が11月27日17時（日本時間）に満期を迎える。11月27日午前のビットコインは6万ドル前後で推移していた。オプションの名目価値は契約規模を示すもので、現物市場で同額の売買が行われることを意味しない。</description>
-    </item>
-    <item>
-      <title>日経平均は午前終値5万8,172円04銭　前日比672円88銭高、5万8,000円台を回復</title>
-      <link>https://invest.pug-o.jp/news/nikkei-morning-close-1127.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/nikkei-morning-close-1127.html</guid>
-      <pubDate>Fri, 27 Nov 2026 12:00:00 +0900</pubDate>
-      <description>11月27日午前の東京株式市場で、日経平均株価は続伸し、午前終値は前日終値比672円88銭高の5万8,172円04銭となった。前日の欧州株高を支えに一時600円超上昇し、5万8,000円台を回復した。東証株価指数（TOPIX）は58.62ポイント高の3,809.02だった。</description>
-    </item>
-    <item>
-      <title>暗号資産市場は9時時点で時価総額329.69兆円　ビットコインは963万7,901円</title>
-      <link>https://invest.pug-o.jp/news/crypto-market-9am-1127.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/crypto-market-9am-1127.html</guid>
-      <pubDate>Fri, 27 Nov 2026 11:00:00 +0900</pubDate>
-      <description>11月27日9時時点の暗号資産市場の時価総額は329.69兆円、24時間売買代金は13.57兆円となった。ビットコインは9,637,901円で前日比0.29％の上昇、イーサリアムは268,897円で0.09％の下落、XRPは150.176円で0.62％の上昇だった。ビットコインはドル建てでも6万ドル台を維持しており、27日午前8時時点で6万574ドルで取引されていた。</description>
     </item>
   </channel>
 </rss>
