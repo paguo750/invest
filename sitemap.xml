@@ -28,6 +28,10 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://invest.pug-o.jp/contact/</loc>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://invest.pug-o.jp/zukan/nikkei225.html</loc>
     <lastmod>2026-11-25</lastmod>
     <priority>0.8</priority>
