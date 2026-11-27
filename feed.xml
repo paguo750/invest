@@ -5,7 +5,7 @@
     <link>https://invest.pug-o.jp/news/</link>
     <description>投資関連ニュースの要約と、指数・銘柄の指標を整理するサイト「投資のしっぽ」の更新情報です。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 12:13:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 13:14:00 +0900</lastBuildDate>
     <item>
       <title>東証REIT指数は1,673.26　日経平均の反発と逆行して下落</title>
       <link>https://invest.pug-o.jp/news/tse-reit-index-1126.html</link>
@@ -91,6 +91,20 @@
       <description>代表的な暗号資産ビットコインは27日未明の東京時間に一時6万ドルを割り込んだあと、6万ドル台前半で推移している。米国のビットコイン現物ETFからは11月25日も4億5,300万ドル超の資金が流出し、流出は7営業日連続となった。11月の累計流出額は約53億9,000万ドルに達し、月間では過去最大となっている。米国市場は26日、感謝祭の祝日で休場だった。</description>
     </item>
     <item>
+      <title>ドル円は13時時点で159円25銭前後　前日比9銭の円安・ドル高</title>
+      <link>https://invest.pug-o.jp/news/usd-jpy-13pm-1127.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/usd-jpy-13pm-1127.html</guid>
+      <pubDate>Fri, 27 Nov 2026 13:00:00 +0900</pubDate>
+      <description>27日の東京外国為替市場で、ドル円相場は13時時点で1ドル＝159円25銭〜159円26銭となった。前日比では9銭の円安・ドル高だった。ユーロ円は13時時点で1ユーロ＝174円79銭前後で推移していた。正午時点のドル円は1ドル＝159円19銭前後だった。</description>
+    </item>
+    <item>
+      <title>日経平均は13時時点で5万8,566円22銭　前日比1,067円06銭高、上げ幅が1,000円を超える</title>
+      <link>https://invest.pug-o.jp/news/nikkei-13pm-1127.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/nikkei-13pm-1127.html</guid>
+      <pubDate>Fri, 27 Nov 2026 13:00:00 +0900</pubDate>
+      <description>27日の東京株式市場で日経平均株価は後場に入って上げ幅を広げ、13時時点で前日比1,067円06銭高の5万8,566円22銭となった。後場寄り付きは前日比984円98銭高の5万8,484円14銭で、12時34分には上げ幅が一時1,000円を超えたと報じられた。TOPIXも13時時点で前日比70円42銭高の3,820.82だった。</description>
+    </item>
+    <item>
       <title>ビットコインの月次オプション、約69億ドル分が27日17時に満期　デリビットで11万2,323BTC</title>
       <link>https://invest.pug-o.jp/news/bitcoin-options-expiry-1127.html</link>
       <guid isPermaLink="true">https://invest.pug-o.jp/news/bitcoin-options-expiry-1127.html</guid>
@@ -131,20 +145,6 @@
       <guid isPermaLink="true">https://invest.pug-o.jp/news/asean-plus3-digital-payments.html</guid>
       <pubDate>Fri, 27 Nov 2026 10:00:00 +0900</pubDate>
       <description>日本、中国、韓国とASEANの財務・中央銀行総裁代理会議は11月26日、国境を越えたデジタル決済の連携を進めるため、作業部会を設置することで合意した。財務省が同日公表した共同議長声明によると、作業部会はASEAN+3マクロ経済調査事務局（AMRO）に設けられ、個人向け・大口の決済網の接続や、ステーブルコインを含むデジタル資産の規制のあり方を議論する。会議は11月25〜26日に京都で開かれた。</description>
-    </item>
-    <item>
-      <title>ドル円は10時時点で159円31銭前後　米短縮取引で薄商いの見通し</title>
-      <link>https://invest.pug-o.jp/news/usd-jpy-10am-1127.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/usd-jpy-10am-1127.html</guid>
-      <pubDate>Fri, 27 Nov 2026 10:00:00 +0900</pubDate>
-      <description>27日10時現在の東京外国為替市場で、ドル円は1ドル＝159円31〜33銭と、前日比15銭の円安・ドル高で推移している。午前8時30分に発表された11月の東京都区部コア消費者物価指数は前年比2.9％上昇で、市場予想の3.0％を下回った。米市場は感謝祭翌日の27日に短縮取引となるため、薄商いが見込まれている。</description>
-    </item>
-    <item>
-      <title>バイナンス、10月のハッキングで止めていた出金を全面再開</title>
-      <link>https://invest.pug-o.jp/news/binance-withdrawals-resume.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/binance-withdrawals-resume.html</guid>
-      <pubDate>Fri, 27 Nov 2026 10:00:00 +0900</pubDate>
-      <description>暗号資産取引所バイナンスは11月26日、10月のセキュリティ事案に伴い続けていた出金の停止を全面的に解除したと発表した。ほぼすべてのネットワークで出金が再開した。一部のネットワークは保守や計画されたアップグレードのため一時停止が続いているが、復旧作業とは別の対応だとしている。事案は10月29日に発生し、約63億ドル相当の暗号資産が流出。バイナンスは会社資金で63億4,000万ドル超を充てて補填した</description>
     </item>
   </channel>
 </rss>
