@@ -5,7 +5,7 @@
     <link>https://invest.pug-o.jp/news/</link>
     <description>投資関連ニュースの要約と、指数・銘柄の指標を整理するサイト「投資のしっぽ」の更新情報です。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 11:13:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:13:00 +0900</lastBuildDate>
     <item>
       <title>東証REIT指数は1,673.26　日経平均の反発と逆行して下落</title>
       <link>https://invest.pug-o.jp/news/tse-reit-index-1126.html</link>
@@ -91,6 +91,20 @@
       <description>代表的な暗号資産ビットコインは27日未明の東京時間に一時6万ドルを割り込んだあと、6万ドル台前半で推移している。米国のビットコイン現物ETFからは11月25日も4億5,300万ドル超の資金が流出し、流出は7営業日連続となった。11月の累計流出額は約53億9,000万ドルに達し、月間では過去最大となっている。米国市場は26日、感謝祭の祝日で休場だった。</description>
     </item>
     <item>
+      <title>ビットコインの月次オプション、約69億ドル分が27日17時に満期　デリビットで11万2,323BTC</title>
+      <link>https://invest.pug-o.jp/news/bitcoin-options-expiry-1127.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/bitcoin-options-expiry-1127.html</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 +0900</pubDate>
+      <description>暗号資産取引所デリビットで、ビットコインの月次オプション約11万2,323BTC（名目価値で約68億ドル）が11月27日17時（日本時間）に満期を迎える。11月27日午前のビットコインは6万ドル前後で推移していた。オプションの名目価値は契約規模を示すもので、現物市場で同額の売買が行われることを意味しない。</description>
+    </item>
+    <item>
+      <title>日経平均は午前終値5万8,172円04銭　前日比672円88銭高、5万8,000円台を回復</title>
+      <link>https://invest.pug-o.jp/news/nikkei-morning-close-1127.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/nikkei-morning-close-1127.html</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 +0900</pubDate>
+      <description>11月27日午前の東京株式市場で、日経平均株価は続伸し、午前終値は前日終値比672円88銭高の5万8,172円04銭となった。前日の欧州株高を支えに一時600円超上昇し、5万8,000円台を回復した。東証株価指数（TOPIX）は58.62ポイント高の3,809.02だった。</description>
+    </item>
+    <item>
       <title>暗号資産市場は9時時点で時価総額329.69兆円　ビットコインは963万7,901円</title>
       <link>https://invest.pug-o.jp/news/crypto-market-9am-1127.html</link>
       <guid isPermaLink="true">https://invest.pug-o.jp/news/crypto-market-9am-1127.html</guid>
@@ -131,20 +145,6 @@
       <guid isPermaLink="true">https://invest.pug-o.jp/news/binance-withdrawals-resume.html</guid>
       <pubDate>Fri, 27 Nov 2026 10:00:00 +0900</pubDate>
       <description>暗号資産取引所バイナンスは11月26日、10月のセキュリティ事案に伴い続けていた出金の停止を全面的に解除したと発表した。ほぼすべてのネットワークで出金が再開した。一部のネットワークは保守や計画されたアップグレードのため一時停止が続いているが、復旧作業とは別の対応だとしている。事案は10月29日に発生し、約63億ドル相当の暗号資産が流出。バイナンスは会社資金で63億4,000万ドル超を充てて補填した</description>
-    </item>
-    <item>
-      <title>KKR、サンケイリアルエステートの買収提案を取り下げる見通しと報道</title>
-      <link>https://invest.pug-o.jp/news/kkr-sankei-reit-withdrawal.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/kkr-sankei-reit-withdrawal.html</guid>
-      <pubDate>Fri, 27 Nov 2026 10:00:00 +0900</pubDate>
-      <description>米投資ファンドのKKRが、サンケイリアルエステート投資法人への非公開化を目的とした買収提案を取り下げる方向で準備していると、ブルームバーグが11月26日に関係者の話として報じた。KKRは今月初め、シティインデックスフィフスによる1口12万5,000円の公開買付けを上回る水準の提案を出していた。一方、サンケイリアルエステート投資法人は、提案の撤回について法人から通知を受けていないと発表している。</description>
-    </item>
-    <item>
-      <title>米ベージュブック、12地区中8地区で経済が拡大　物価は緩やかな上昇</title>
-      <link>https://invest.pug-o.jp/news/fed-beige-book-november.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/fed-beige-book-november.html</guid>
-      <pubDate>Thu, 26 Nov 2026 09:00:00 +0900</pubDate>
-      <description>米連邦準備制度理事会（FRB）は25日、全米12地区の連邦準備銀行による景況報告（ベージュブック）を公表した。8地区が小幅から緩やかな経済の拡大を報告し、4地区は横ばいだった。物価は全体として緩やかに上昇し、エネルギーや輸送、関税関連の費用増加を指摘する声があった。調査は11月16日までに集められたもので、12月8日・9日の連邦公開市場委員会（FOMC）の討議資料となる。</description>
     </item>
   </channel>
 </rss>
