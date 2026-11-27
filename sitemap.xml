@@ -482,6 +482,21 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://invest.pug-o.jp/news/nikkei-14pm-1127.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/news/usd-jpy-14pm-1127.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/news/galaxy-bitcoin-bottom-call-retract.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://invest.pug-o.jp/tags/ASEAN+3.html</loc>
     <lastmod>2026-11-27</lastmod>
     <priority>0.5</priority>
@@ -513,6 +528,11 @@
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/GDP.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/Galaxy Digital.html</loc>
     <lastmod>2026-11-27</lastmod>
     <priority>0.5</priority>
   </url>
@@ -798,6 +818,11 @@
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/暗号資産.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/東京株式市場.html</loc>
     <lastmod>2026-11-27</lastmod>
     <priority>0.5</priority>
   </url>

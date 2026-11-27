@@ -5,7 +5,7 @@
     <link>https://invest.pug-o.jp/news/</link>
     <description>投資関連ニュースの要約と、指数・銘柄の指標を整理するサイト「投資のしっぽ」の更新情報です。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 13:14:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 14:12:00 +0900</lastBuildDate>
     <item>
       <title>東証REIT指数は1,673.26　日経平均の反発と逆行して下落</title>
       <link>https://invest.pug-o.jp/news/tse-reit-index-1126.html</link>
@@ -91,6 +91,27 @@
       <description>代表的な暗号資産ビットコインは27日未明の東京時間に一時6万ドルを割り込んだあと、6万ドル台前半で推移している。米国のビットコイン現物ETFからは11月25日も4億5,300万ドル超の資金が流出し、流出は7営業日連続となった。11月の累計流出額は約53億9,000万ドルに達し、月間では過去最大となっている。米国市場は26日、感謝祭の祝日で休場だった。</description>
     </item>
     <item>
+      <title>ギャラクシー・デジタル、ビットコインの底打ち見立てを撤回と報道</title>
+      <link>https://invest.pug-o.jp/news/galaxy-bitcoin-bottom-call-retract.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/galaxy-bitcoin-bottom-call-retract.html</guid>
+      <pubDate>Fri, 27 Nov 2026 14:00:00 +0900</pubDate>
+      <description>米仮想通貨金融大手ギャラクシー・デジタルの調査部門は、ビットコインの弱気相場が2026年6月に終わったとする10月の見立てを撤回した。調査部門を率いるアレックス・ソーン氏が25日に公開したレポートで示された。撤回の理由は、9月に示した底打ちのサインが崩れたためで、ビットコインは11月8日までの週に50週移動平均を再び下回り、翌週には200週移動平均も割り込んだ。レポートは6月30日の終値安値5万8</description>
+    </item>
+    <item>
+      <title>ドル円は14時時点で159円28銭前後　前日比12銭の円安・ドル高</title>
+      <link>https://invest.pug-o.jp/news/usd-jpy-14pm-1127.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/usd-jpy-14pm-1127.html</guid>
+      <pubDate>Fri, 27 Nov 2026 14:00:00 +0900</pubDate>
+      <description>27日の外国為替市場のドル円相場は午後2時時点で1ドル＝159円28銭前後となり、前日午後5時時点に比べ12銭のドル高・円安で推移した。ユーロ円は1ユーロ＝174円75銭前後と11銭のユーロ高・円安だった。午後の東京市場ではドル円は159円20銭付近でのもみ合いが続いていた。</description>
+    </item>
+    <item>
+      <title>日経平均は14時時点で5万8,545円　前日比1,045円高、アドバンテストが292円押し上げ</title>
+      <link>https://invest.pug-o.jp/news/nikkei-14pm-1127.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/nikkei-14pm-1127.html</guid>
+      <pubDate>Fri, 27 Nov 2026 14:00:00 +0900</pubDate>
+      <description>27日14時現在の日経平均株価は、前日比1,045円85銭（1.82％）高の5万8,545円01銭で推移した。東証プライムの値上がり銘柄数は1,123、値下がりは381、変わらずは41で、値上がり銘柄数が値下がり銘柄数を大幅に上回った。日経平均へのプラス寄与度ではアドバンテストが292.34円と最も大きく、東京エレクトロンが121.36円、ソフトバンクグループが71.60円と続いた。</description>
+    </item>
+    <item>
       <title>ドル円は13時時点で159円25銭前後　前日比9銭の円安・ドル高</title>
       <link>https://invest.pug-o.jp/news/usd-jpy-13pm-1127.html</link>
       <guid isPermaLink="true">https://invest.pug-o.jp/news/usd-jpy-13pm-1127.html</guid>
@@ -124,27 +145,6 @@
       <guid isPermaLink="true">https://invest.pug-o.jp/news/crypto-market-9am-1127.html</guid>
       <pubDate>Fri, 27 Nov 2026 11:00:00 +0900</pubDate>
       <description>11月27日9時時点の暗号資産市場の時価総額は329.69兆円、24時間売買代金は13.57兆円となった。ビットコインは9,637,901円で前日比0.29％の上昇、イーサリアムは268,897円で0.09％の下落、XRPは150.176円で0.62％の上昇だった。ビットコインはドル建てでも6万ドル台を維持しており、27日午前8時時点で6万574ドルで取引されていた。</description>
-    </item>
-    <item>
-      <title>阪急阪神リート、3物件・総額153億5,500万円の資産入れ替えを決定</title>
-      <link>https://invest.pug-o.jp/news/hankyu-hanshin-reit-swap-1127.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/hankyu-hanshin-reit-swap-1127.html</guid>
-      <pubDate>Fri, 27 Nov 2026 11:00:00 +0900</pubDate>
-      <description>阪急阪神リート投資法人は、総額153億5,500万円の資産入れ替えを決めた。東京都台東区のオフィスビル「スイテ新御徒町」を64億9,500万円で取得する一方、大阪市福島区の複合ビル「ラグザ大阪」を53億3,000万円で、東京都港区の「芝浦ルネサイトタワー」の共有持分10％相当を35億3,000万円で譲渡する。取得予定日は2026年12月16日、譲渡予定日はラグザ大阪が12月3日となっている。あわせ</description>
-    </item>
-    <item>
-      <title>日経平均は11時時点で5万8,086円51銭　前日比587円35銭高</title>
-      <link>https://invest.pug-o.jp/news/nikkei-11am-1127.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/nikkei-11am-1127.html</guid>
-      <pubDate>Fri, 27 Nov 2026 11:00:00 +0900</pubDate>
-      <description>27日の東京株式市場で、日経平均株価は午前11時時点で前日終値比587円35銭高の5万8,086円51銭となった。TOPIXは同53.69ポイント高の3,804.09だった。欧州株高を受けて高く始まった後、一時下落に転じる場面もあったが、10時ごろから日経平均先物に断続的な買いが入り、再び上げ幅を広げた。26日の米市場は感謝祭の祝日で休場だった。</description>
-    </item>
-    <item>
-      <title>日中韓・ASEAN、越境デジタル決済の連携で合意　作業部会を設置へ</title>
-      <link>https://invest.pug-o.jp/news/asean-plus3-digital-payments.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/asean-plus3-digital-payments.html</guid>
-      <pubDate>Fri, 27 Nov 2026 10:00:00 +0900</pubDate>
-      <description>日本、中国、韓国とASEANの財務・中央銀行総裁代理会議は11月26日、国境を越えたデジタル決済の連携を進めるため、作業部会を設置することで合意した。財務省が同日公表した共同議長声明によると、作業部会はASEAN+3マクロ経済調査事務局（AMRO）に設けられ、個人向け・大口の決済網の接続や、ステーブルコインを含むデジタル資産の規制のあり方を議論する。会議は11月25〜26日に京都で開かれた。</description>
     </item>
   </channel>
 </rss>
