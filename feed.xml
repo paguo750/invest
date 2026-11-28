@@ -5,7 +5,7 @@
     <link>https://invest.pug-o.jp/news/</link>
     <description>投資関連ニュースの要約と、指数・銘柄の指標を整理するサイト「投資のしっぽ」の更新情報です。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 28 Nov 2026 17:13:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 21:13:00 +0900</lastBuildDate>
     <item>
       <title>金は3,670ドル台へ反発、銀は7%高の44ドル台　貴金属そろって上昇</title>
       <link>https://invest.pug-o.jp/news/gold-silver-rebound-1128.html</link>
@@ -63,6 +63,34 @@
       <description>感謝祭の祝日明け27日のニューヨーク株式市場は、半日取引で主要3指数そろって上昇して始まった。日本時間23時30分時点（NY時間10時30分）で、ダウ平均は前営業日比508.57ドル（1.02%）高の5万691.52ドル、ナスダック総合指数は373.15ポイント（1.57%）高の2万3,958.95だった。週間で大幅に下落していたAI関連銘柄に押し目買いが入ったと報じられている。</description>
     </item>
     <item>
+      <title>中国株が大幅高、上海総合は3.73%上昇　国務院が資本市場の安定化に向けた方針を示す</title>
+      <link>https://invest.pug-o.jp/news/china-stocks-surge-stabilization-1128.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/china-stocks-surge-stabilization-1128.html</guid>
+      <pubDate>Sat, 28 Nov 2026 21:00:00 +0900</pubDate>
+      <description>中国の国務院（内閣に相当）の常務会議が27日、資本市場の安定化に向けた方針を示し、中国の株式市場は大幅に上昇した。上海総合指数は3.73%高の3,606.49で取引を終え、深セン成分指数は7.24%高、創業板指数は11.61%高となった。会議では、国有資金による市場安定化の役割を強めることや、中央匯金（セントラル・フイジン）の安定化基金としての機能を最適化することが示された。</description>
+    </item>
+    <item>
+      <title>シカゴの日経平均先物は5万8,970円、金曜の終値より259円高く　ドル建ては5万9,000円</title>
+      <link>https://invest.pug-o.jp/news/cme-nikkei-futures-58970-1128.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/cme-nikkei-futures-58970-1128.html</guid>
+      <pubDate>Sat, 28 Nov 2026 21:00:00 +0900</pubDate>
+      <description>米シカゴ・マーカンタイル取引所（CME）の日経平均先物（円建て・12月物）は、28日早朝の取引終了時点で5万8,970円となった。27日の日経平均の終値5万8,711円11銭より258円89銭高い。ドル建ては5万9,000円だった。週末をはさむ先物の値は、月曜の東京の動きと大きくずれることもある。</description>
+    </item>
+    <item>
+      <title>トランプ一族関連のWLFIが急落、24時間で5割超安　ステーブルコインUSD1も一時1ドルを6%下回る</title>
+      <link>https://invest.pug-o.jp/news/wlfi-usd1-plunge-depeg-1128.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/wlfi-usd1-plunge-depeg-1128.html</guid>
+      <pubDate>Sat, 28 Nov 2026 21:00:00 +0900</pubDate>
+      <description>トランプ米大統領の一族が関わる暗号資産プロジェクト「World Liberty Financial」のガバナンストークンWLFIが、日本時間11月28日の午後に急落した。同プロジェクトが手がける米ドル連動のステーブルコインUSD1も一時0.94ドルまで下がり、1ドルを約6%下回った。USD1はその後0.98〜0.99ドル台まで戻している。</description>
+    </item>
+    <item>
+      <title>福岡リート投資法人、舞鶴オフィスビルの底地を95億円で取得へ　鳥栖の冷凍倉庫開発にも優先出資</title>
+      <link>https://invest.pug-o.jp/news/fukuoka-reit-maizuru-tosu-1128.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/fukuoka-reit-maizuru-tosu-1128.html</guid>
+      <pubDate>Sat, 28 Nov 2026 21:00:00 +0900</pubDate>
+      <description>福岡リート投資法人は、福岡市中央区の舞鶴オフィスビルの底地（土地）を取得すると発表した。取得予定価格は95億円で、借入金で全額を一括して支払う。あわせて、佐賀県鳥栖市で開発中の冷凍倉庫物流センターを手がける特定目的会社へ、総額5億500万円の優先出資を行うことも決めた。</description>
+    </item>
+    <item>
       <title>米現物ビットコインETF、11月の純流出は約53.9億ドルで過去最大に</title>
       <link>https://invest.pug-o.jp/news/bitcoin-etf-november-outflow-record-1128.html</link>
       <guid isPermaLink="true">https://invest.pug-o.jp/news/bitcoin-etf-november-outflow-record-1128.html</guid>
@@ -117,34 +145,6 @@
       <guid isPermaLink="true">https://invest.pug-o.jp/news/hotel-reit-october-revpar-1128.html</guid>
       <pubDate>Sat, 28 Nov 2026 10:00:00 +0900</pubDate>
       <description>11月25日に公表されたホテルREIT5投資法人の10月度運営実績では、客室稼働率に客室単価を掛けたRevPARが5法人すべてで前年同月を上回った。いちごホテル、スターアジア、投資法人みらいでは8%前後の伸びとなった。大阪のホテルでは前年同月比の大幅な落ち込みが続いているが、2024年との比較では改善傾向が確認されたと報じられている。</description>
-    </item>
-    <item>
-      <title>12月の日銀会合とFOMCに関心集まる　田村委員は数カ月に一度0.25%の利上げペースに言及</title>
-      <link>https://invest.pug-o.jp/news/boj-december-meeting-focus-1128.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/boj-december-meeting-focus-1128.html</guid>
-      <pubDate>Sat, 28 Nov 2026 10:00:00 +0900</pubDate>
-      <description>11月の東京都区部消費者物価指数（コア）は前年同月比2.9%の上昇となり、10月の2.6%から伸びが拡大した。26日に甲府市で講演した日銀の田村直樹審議委員は、数カ月に一度、0.25%ずつ利上げするペースを基本に考えていると説明した。次回の金融政策決定会合は12月17〜18日、米連邦公開市場委員会（FOMC）は12月8〜9日に開かれる。過去6回の利上げ後、ビットコインの円建て価格は30日後に4回下</description>
-    </item>
-    <item>
-      <title>東証REIT指数は1,673.26　日経平均の反発と逆行して下落</title>
-      <link>https://invest.pug-o.jp/news/tse-reit-index-1126.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/tse-reit-index-1126.html</guid>
-      <pubDate>Fri, 27 Nov 2026 09:00:00 +0900</pubDate>
-      <description>26日の東証REIT指数は前日比8.47ポイント安（-0.50%）の1,673.26で終えた。同日の日経平均は487円54銭高の5万7,499円16銭と反発しており、株式とREITで異なる動きとなった。前日25日のREIT指数は1,681.73と上昇していた。</description>
-    </item>
-    <item>
-      <title>JT、英インペリアル・ブランズの買収を検討　米アルトリアと共同で</title>
-      <link>https://invest.pug-o.jp/news/jt-imperial-brands-bid.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/jt-imperial-brands-bid.html</guid>
-      <pubDate>Fri, 27 Nov 2026 09:00:00 +0900</pubDate>
-      <description>ブルームバーグ通信は26日、日本たばこ産業（JT）が米アルトリア・グループと共同で、英たばこ大手インペリアル・ブランズに対する買収を検討していると報じた。パートナーと組んで買収した上で、同社の世界各地の資産を分割することが検討されているという。アルトリアは26日、インペリアルに対する現金による買収提案を検討していることを明らかにした。JTは11月19日、ロシア現地法人が露企業の一時管理下に置かれた</description>
-    </item>
-    <item>
-      <title>日経平均は続伸で始まる　始値は5万7,669円79銭</title>
-      <link>https://invest.pug-o.jp/news/nikkei-open-1127.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/nikkei-open-1127.html</guid>
-      <pubDate>Fri, 27 Nov 2026 09:00:00 +0900</pubDate>
-      <description>27日の東京株式市場で日経平均株価は続伸で始まった。始値は前日比170円63銭高の5万7,669円79銭で、その後上げ幅は400円超に達した。26日の米市場は感謝祭の祝日で休場だったが、同日の欧州株式相場が上昇したことが買いを促した。日経平均先物も大取で続伸し、490円高の5万7,840円で始まった。</description>
     </item>
   </channel>
 </rss>
