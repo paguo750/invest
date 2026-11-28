@@ -5,7 +5,7 @@
     <link>https://invest.pug-o.jp/news/</link>
     <description>投資関連ニュースの要約と、指数・銘柄の指標を整理するサイト「投資のしっぽ」の更新情報です。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 28 Nov 2026 13:18:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 17:13:00 +0900</lastBuildDate>
     <item>
       <title>金は3,670ドル台へ反発、銀は7%高の44ドル台　貴金属そろって上昇</title>
       <link>https://invest.pug-o.jp/news/gold-silver-rebound-1128.html</link>
@@ -61,6 +61,27 @@
       <guid isPermaLink="true">https://invest.pug-o.jp/news/ny-stocks-black-friday-open-1128.html</guid>
       <pubDate>Sat, 28 Nov 2026 02:00:00 +0900</pubDate>
       <description>感謝祭の祝日明け27日のニューヨーク株式市場は、半日取引で主要3指数そろって上昇して始まった。日本時間23時30分時点（NY時間10時30分）で、ダウ平均は前営業日比508.57ドル（1.02%）高の5万691.52ドル、ナスダック総合指数は373.15ポイント（1.57%）高の2万3,958.95だった。週間で大幅に下落していたAI関連銘柄に押し目買いが入ったと報じられている。</description>
+    </item>
+    <item>
+      <title>米現物ビットコインETF、11月の純流出は約53.9億ドルで過去最大に</title>
+      <link>https://invest.pug-o.jp/news/bitcoin-etf-november-outflow-record-1128.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/bitcoin-etf-november-outflow-record-1128.html</guid>
+      <pubDate>Sat, 28 Nov 2026 17:00:00 +0900</pubDate>
+      <description>米国の現物ビットコインETFは、11月の純流出額が約53.91億ドル（約8,600億円）に達し、設定以来最大の月間流出となった。うちブラックロックのIBITからの流出は約45億ドルだった。ビットコインは27日の取引時間中に一時6万2,100ドルまで上昇した後、数分間で約3,000ドル急落し、5万9,000ドルを割り込んだ。1時間の強制決済額は2.28億ドルに達した。</description>
+    </item>
+    <item>
+      <title>サンケイリアルエステート、KKRの対抗提案取りやめ報道に「正式な連絡は受けていない」と発表</title>
+      <link>https://invest.pug-o.jp/news/sankei-reit-no-withdrawal-notice-1128.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/sankei-reit-no-withdrawal-notice-1128.html</guid>
+      <pubDate>Sat, 28 Nov 2026 17:00:00 +0900</pubDate>
+      <description>不動産投資信託（REIT）のサンケイリアルエステート投資法人は、プライベートエクイティ（PE）ファンドによる対抗提案の取りやめをめぐる報道について、正式な連絡は受けていないと発表した。報道では、米KKRがシティインデックスフィフスによるTOBへの対抗提案を取りやめる方向だと伝えられた。投資法人は、買収提案をめぐる状況は確定していないとしている。</description>
+    </item>
+    <item>
+      <title>ユナイテッド・アーバン投資法人、熱海パールスターホテルを178億円で取得へ　外資系ブランドへのリブランドを計画</title>
+      <link>https://invest.pug-o.jp/news/atami-pearl-star-hotel-united-urban-1128.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/atami-pearl-star-hotel-united-urban-1128.html</guid>
+      <pubDate>Sat, 28 Nov 2026 17:00:00 +0900</pubDate>
+      <description>不動産投資信託（REIT）のユナイテッド・アーバン投資法人が、熱海市東海岸町の高級リゾートホテル「熱海パールスターホテル」を取得することが11月26日に明らかになった。取得予定価格は178億円で、取得は2027年1月29日を予定している。取得後は外資系ホテルオペレーターによるリブランドを計画している。</description>
     </item>
     <item>
       <title>TORCHES、系統用蓄電池用地ファンドを29日まで募集　想定利回りは年18.0%</title>
@@ -124,27 +145,6 @@
       <guid isPermaLink="true">https://invest.pug-o.jp/news/nikkei-open-1127.html</guid>
       <pubDate>Fri, 27 Nov 2026 09:00:00 +0900</pubDate>
       <description>27日の東京株式市場で日経平均株価は続伸で始まった。始値は前日比170円63銭高の5万7,669円79銭で、その後上げ幅は400円超に達した。26日の米市場は感謝祭の祝日で休場だったが、同日の欧州株式相場が上昇したことが買いを促した。日経平均先物も大取で続伸し、490円高の5万7,840円で始まった。</description>
-    </item>
-    <item>
-      <title>日経平均先物は夜間で上昇　寄り付き前の材料は東京CPIと米短縮取引</title>
-      <link>https://invest.pug-o.jp/news/nikkei-futures-premarket-1127.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/nikkei-futures-premarket-1127.html</guid>
-      <pubDate>Fri, 27 Nov 2026 08:00:00 +0900</pubDate>
-      <description>27日の東京株式市場の寄り付きを前に、日経平均先物は夜間取引で上昇した。大阪取引所の日経225先物（期近）は27日6時時点で5万7,890円と、前日終値を540円上回った。CME日経平均先物は5万7,665円だった。26日の日経平均は前日比487円54銭高の5万7,499円16銭で終えていた。米株式市場は26日が感謝祭で休場し、27日は短縮取引となる。午前8時30分には11月の東京都区部消費者物価</description>
-    </item>
-    <item>
-      <title>東京都区部の消費者物価、11月はコア2.9%上昇　前月から伸びが拡大</title>
-      <link>https://invest.pug-o.jp/news/tokyo-cpi-november-2026.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/tokyo-cpi-november-2026.html</guid>
-      <pubDate>Fri, 27 Nov 2026 08:00:00 +0900</pubDate>
-      <description>総務省が27日朝に発表した11月の東京都区部消費者物価指数（中旬速報値）は、生鮮食品を除くコアが前年同月比2.9%上昇し、10月の2.6%から伸びが拡大した。総合指数は2.8%上昇、生鮮食品とエネルギーを除くコアコアは2.5%上昇だった。電気・ガス料金への政府の負担軽減策が終了したことに伴い、エネルギー価格が押し上げ要因になったと報じられている。QUICKがまとめた市場予想の中央値はコア3.0%で</description>
-    </item>
-    <item>
-      <title>OwnersBook、目黒区大岡山の土地案件を11月27日から募集　想定利回りは年率5.4%</title>
-      <link>https://invest.pug-o.jp/news/ownersbook-ookayama-fund.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/ownersbook-ookayama-fund.html</guid>
-      <pubDate>Fri, 27 Nov 2026 08:00:00 +0900</pubDate>
-      <description>不動産特化のクラウドファンディング「OwnersBook」は、東京都目黒区大岡山の土地を対象とした案件の募集を11月27日から始めると発表した。一般募集は同日18:00からで、募集総額は2億200万円、想定利回りは年率5.4%、運用期間は19カ月とされている。株主優待枠4,000万円の募集は同日11:00から、先行募集枠4,000万円は同日14:00から始まる。</description>
     </item>
   </channel>
 </rss>
