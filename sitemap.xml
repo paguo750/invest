@@ -602,6 +602,21 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://invest.pug-o.jp/news/nikkei-weekly-recap-1128.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/news/bitcoin-whale-accumulation-q4-1128.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/news/torches-fund74-battery-land-1128.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://invest.pug-o.jp/tags/21シェアーズ.html</loc>
     <lastmod>2026-11-28</lastmod>
     <priority>0.5</priority>
@@ -623,6 +638,11 @@
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/CREAL.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/CryptoQuant.html</loc>
     <lastmod>2026-11-28</lastmod>
     <priority>0.5</priority>
   </url>
