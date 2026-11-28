@@ -587,6 +587,26 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://invest.pug-o.jp/news/boj-december-meeting-focus-1128.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/news/hotel-reit-october-revpar-1128.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/news/21shares-bitcoin-decline-analysis-1128.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/21シェアーズ.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://invest.pug-o.jp/tags/6万ドル.html</loc>
     <lastmod>2026-11-28</lastmod>
     <priority>0.5</priority>
@@ -698,6 +718,11 @@
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/PCE.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/RevPAR.html</loc>
     <lastmod>2026-11-28</lastmod>
     <priority>0.5</priority>
   </url>
@@ -842,6 +867,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://invest.pug-o.jp/tags/ホテルREIT.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://invest.pug-o.jp/tags/マクロ経済スライド.html</loc>
     <lastmod>2026-11-28</lastmod>
     <priority>0.5</priority>
@@ -948,6 +978,11 @@
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/暗号資産.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/東京CPI.html</loc>
     <lastmod>2026-11-28</lastmod>
     <priority>0.5</priority>
   </url>
