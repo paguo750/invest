@@ -20,6 +20,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://invest.pug-o.jp/search.html</loc>
+    <lastmod>2026-11-29</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://invest.pug-o.jp/about/</loc>
     <priority>0.5</priority>
   </url>
@@ -667,6 +672,16 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://invest.pug-o.jp/news/commosus-minamiazabu-fund173-1129.html</loc>
+    <lastmod>2026-11-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/news/bitcoin-weekend-around-60k-1129.html</loc>
+    <lastmod>2026-11-29</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://invest.pug-o.jp/tags/21シェアーズ.html</loc>
     <lastmod>2026-11-29</lastmod>
     <priority>0.5</priority>
@@ -678,6 +693,16 @@
   </url>
   <url>
     <loc>https://invest.pug-o.jp/tags/ASEAN+3.html</loc>
+    <lastmod>2026-11-29</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/BTC.html</loc>
+    <lastmod>2026-11-29</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://invest.pug-o.jp/tags/COMMOSUS.html</loc>
     <lastmod>2026-11-29</lastmod>
     <priority>0.5</priority>
   </url>

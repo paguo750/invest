@@ -5,7 +5,21 @@
     <link>https://invest.pug-o.jp/news/</link>
     <description>投資関連ニュースの要約と、指数・銘柄の指標を整理するサイト「投資のしっぽ」の更新情報です。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 29 Nov 2026 01:15:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 29 Nov 2026 05:16:00 +0900</lastBuildDate>
+    <item>
+      <title>ビットコイン、週末は6万ドル前後で推移　金曜は6万2,100ドルから5万9,000ドルへ急落</title>
+      <link>https://invest.pug-o.jp/news/bitcoin-weekend-around-60k-1129.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/bitcoin-weekend-around-60k-1129.html</guid>
+      <pubDate>Sun, 29 Nov 2026 05:00:00 +0900</pubDate>
+      <description>ビットコインは週末の取引で6万ドル前後で推移している。金曜は一時6万2,100ドルまで上昇した後、米国市場の寄り付き後に売り圧力が強まり、5万9,000ドルを割り込む場面があった。CoinGlassの集計では、協定世界時午後3時までの1時間で2億2,800万ドル相当の強制決済が発生した。イーサは1,664ドル前後、XRPは0.95ドル前後、ソラナは71.66ドル前後で推移している。</description>
+    </item>
+    <item>
+      <title>COMMOSUS、南麻布の不動産再販プロジェクトを募集中　想定利回りは年7.0%、11月30日まで</title>
+      <link>https://invest.pug-o.jp/news/commosus-minamiazabu-fund173-1129.html</link>
+      <guid isPermaLink="true">https://invest.pug-o.jp/news/commosus-minamiazabu-fund173-1129.html</guid>
+      <pubDate>Sun, 29 Nov 2026 05:00:00 +0900</pubDate>
+      <description>融資型クラウドファンディングのCOMMOSUSは「南麻布プロジェクト（COMMOSUSファンド173号）」を募集している。申込期間は11月26日から11月30日15時までで、募集方式は先着式となっている。想定利回りは年7.0%、運用期間は約9カ月、募集金額は3億8,000万円。貸付の対象は港区南麻布の土地建物で、抵当権第1順位の担保が設定され、LTVは72%とされている。想定利回りと元本は保証され</description>
+    </item>
     <item>
       <title>三菱地所物流リート、MJロジパーク岡崎1を53.96億円で取得へ　印西1の売却と入れ替え</title>
       <link>https://invest.pug-o.jp/news/mitsubishi-logistics-reit-okazaki-1129.html</link>
@@ -131,20 +145,6 @@
       <guid isPermaLink="true">https://invest.pug-o.jp/news/atami-pearl-star-hotel-united-urban-1128.html</guid>
       <pubDate>Sat, 28 Nov 2026 17:00:00 +0900</pubDate>
       <description>不動産投資信託（REIT）のユナイテッド・アーバン投資法人が、熱海市東海岸町の高級リゾートホテル「熱海パールスターホテル」を取得することが11月26日に明らかになった。取得予定価格は178億円で、取得は2027年1月29日を予定している。取得後は外資系ホテルオペレーターによるリブランドを計画している。</description>
-    </item>
-    <item>
-      <title>TORCHES、系統用蓄電池用地ファンドを29日まで募集　想定利回りは年18.0%</title>
-      <link>https://invest.pug-o.jp/news/torches-fund74-battery-land-1128.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/torches-fund74-battery-land-1128.html</guid>
-      <pubDate>Sat, 28 Nov 2026 13:00:00 +0900</pubDate>
-      <description>不動産投資型クラウドファンディングのTORCHES（トーチーズ）は、No.74「佐賀県唐津市 系統用蓄電池用地ファンド」を11月29日15時まで先着順で募集している。投資対象は佐賀県唐津市北波多岸山にある系統用蓄電池事業用地の地上権で、募集金額は5億1,678万円、想定利回りは年18.0%、運用期間は10カ月となっている。電力系統への接続が確定しており、売却先企業との売買契約も締結済みだとしている</description>
-    </item>
-    <item>
-      <title>ビットコインの大口保有者、価格29.5%下落のなか12万1,117BTCを積み増し　CryptoQuant報告</title>
-      <link>https://invest.pug-o.jp/news/bitcoin-whale-accumulation-q4-1128.html</link>
-      <guid isPermaLink="true">https://invest.pug-o.jp/news/bitcoin-whale-accumulation-q4-1128.html</guid>
-      <pubDate>Sat, 28 Nov 2026 13:00:00 +0900</pubDate>
-      <description>オンチェーン分析のCryptoQuantが27日に公表した報告書によると、1,000〜1万BTCを保有するアドレス群は9月30日から11月21日の52日間に残高を12万1,117BTC増やした。同期間にビットコイン価格は29.5%下落しており、年末に残高が減る過去の傾向とは逆の動きとなった。ただし報告書は、アドレス残高の増加は市場での買い付け量や新規資金の流入額と同一ではないと注記している。</description>
     </item>
   </channel>
 </rss>

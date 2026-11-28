@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>サイト内検索｜投資のしっぽ</title>
+<meta name="description" content="投資のしっぽのニュース記事と銘柄図鑑を、キーワードで検索できるページです。見出し・タグ・要約・概要を対象に、スペース区切りのAND検索ができます。">
+<link rel="canonical" href="https://invest.pug-o.jp/search.html">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="投資のしっぽ">
+<meta property="og:title" content="サイト内検索｜投資のしっぽ">
+<meta property="og:description" content="投資のしっぽのニュース記事と銘柄図鑑を、キーワードで検索できるページです。見出し・タグ・要約・概要を対象に、スペース区切りのAND検索ができます。">
+<meta property="og:url" content="https://invest.pug-o.jp/search.html">
+<meta property="og:image" content="https://invest.pug-o.jp/images/ogp-news.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://invest.pug-o.jp/images/ogp-news.png">
+<link rel="alternate" type="application/rss+xml" title="投資のしっぽ 新着ニュース" href="https://invest.pug-o.jp/feed.xml">
+<link rel="stylesheet" href="/style.css">
+<!-- favicon は暫定：資格サイト (tools.pug-o.jp) のアイコンを流用中。投資サイト専用アイコンは未決定 -->
+<link rel="icon" type="image/png" href="/images/favicon.png">
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7738139416541721" crossorigin="anonymous"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-669BYPTSKL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-669BYPTSKL');
+</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="/">
+      <span class="brand-text-only">投資のしっぽ<small>invest.pug-o.jp</small></span>
+      <img class="header-paguo" src="/images/paguo-slide.png" alt="" width="48" height="48">
+    </a>
+    <nav class="site-nav">
+      <a href="/">トップ</a>
+      <a href="/news/">ニュース</a>
+      <a href="/zukan/">銘柄図鑑</a>
+      <a href="/tools/">資産管理ツール</a>
+      <a href="/about/">このサイトについて</a>
+      <a href="/search.html">検索</a>
+    </nav>
+  </div>
+</header>
+<main>
+<div class="wrap">
+<section class="hub-head">
+<h1>サイト内検索</h1>
+<p class="lead">ニュース記事と銘柄図鑑を、キーワードでまとめて検索できます。テーマ名（不動産・REIT、金利・経済指標、仮想通貨、株式・指数など）や銘柄名で探せます。</p>
+</section>
+<section class="search-box">
+<form id="search-form" class="search-form" action="/search.html" method="get">
+<input type="search" id="q" name="q" placeholder="キーワード（例：REIT 分配金）" aria-label="検索キーワード">
+<button type="submit">検索する</button>
+</form>
+<p class="muted">スペースで区切ると、すべてのキーワードを含むものだけを表示します（AND検索）。見出しに一致するものが優先して表示されます。</p>
+<p id="result-count" class="muted">読み込み中です…</p>
+<div class="article-list" id="results"></div>
+</section>
+<section class="disclaimer">
+<p>本サイトの情報は、ニュースの要約と公表データの整理を目的としたものであり、特定の銘柄・商品の売買を推奨するものではありません。投資の最終判断は、ご自身の責任において行ってください。</p>
+</section>
+<style>.search-form{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0 4px}.search-form input[type="search"]{flex:1 1 220px;padding:10px 12px;font-size:1rem;border:1px solid #c8cdd4;border-radius:8px}.search-form button{padding:10px 18px;font-size:1rem;border:none;border-radius:8px;background:#1f3a5f;color:#fff;cursor:pointer}</style>
+
+<script>
+(function () {
+  var input = document.getElementById('q');
+  var form = document.getElementById('search-form');
+  var list = document.getElementById('results');
+  var count = document.getElementById('result-count');
+  var data = null;
+  function norm(s) { return (s || '').toLowerCase(); }
+  function terms(q) {
+    return q.split(/[\s\u3000]+/).filter(Boolean).map(norm);
+  }
+  function score(e, ts, phrase) {
+    var t = norm(e.t), s = norm(e.s), x = norm(e.x || '');
+    var g = (e.g || []).map(norm);
+    var sc = 0;
+    for (var i = 0; i < ts.length; i++) {
+      var term = ts[i], hit = false;
+      if (t.indexOf(term) >= 0) { sc += 10; hit = true; }
+      for (var j = 0; j < g.length; j++) {
+        if (g[j] === term) { sc += 6; hit = true; }
+        else if (g[j].indexOf(term) >= 0) { sc += 4; hit = true; }
+      }
+      if (s.indexOf(term) >= 0) { sc += 2; hit = true; }
+      if (x.indexOf(term) >= 0) { sc += 1; hit = true; }
+      if (!hit) return -1;
+    }
+    if (phrase && t.indexOf(norm(phrase)) >= 0) sc += 5;
+    return sc;
+  }
+  function render(q) {
+    list.innerHTML = '';
+    var ts = terms(q);
+    if (!ts.length) {
+      count.textContent = data ? 'ニュース記事と銘柄図鑑、あわせて' + data.length + '件から検索できます。' : '';
+      return;
+    }
+    if (!data) { count.textContent = '読み込み中です…'; return; }
+    var hits = [];
+    data.forEach(function (e) {
+      var sc = score(e, ts, q.trim());
+      if (sc >= 0) hits.push({ e: e, sc: sc });
+    });
+    hits.sort(function (a, b) {
+      if (b.sc !== a.sc) return b.sc - a.sc;
+      return a.e.d < b.e.d ? 1 : (a.e.d > b.e.d ? -1 : 0);
+    });
+    count.textContent = hits.length
+      ? '「' + q + '」の検索結果：' + hits.length + '件'
+      : '「' + q + '」に一致する記事・図鑑は見つかりませんでした。キーワードを変えてお試しください。';
+    hits.slice(0, 100).forEach(function (h) {
+      var e = h.e;
+      var a = document.createElement('a');
+      a.className = 'article-card';
+      a.href = e.u;
+      var body = document.createElement('span');
+      body.className = 'card-body';
+      var hl = document.createElement('span');
+      hl.className = 'article-headline';
+      hl.textContent = e.t;
+      var meta = document.createElement('span');
+      meta.className = 'article-meta';
+      meta.textContent = (e.k === 'zukan' ? '銘柄図鑑' : 'ニュース') + '　' + e.dl;
+      body.appendChild(hl);
+      body.appendChild(meta);
+      if (e.s) {
+        var ex = document.createElement('span');
+        ex.className = 'article-meta';
+        ex.textContent = e.s + '…';
+        body.appendChild(ex);
+      }
+      a.appendChild(body);
+      list.appendChild(a);
+    });
+  }
+  fetch('search-index.json')
+    .then(function (r) { return r.json(); })
+    .then(function (j) { data = j; render(input.value); })
+    .catch(function () { count.textContent = '検索データの読み込みに失敗しました。'; });
+  form.addEventListener('submit', function (ev) {
+    ev.preventDefault();
+    render(input.value);
+    var url = new URL(window.location.href);
+    if (input.value) { url.searchParams.set('q', input.value); }
+    else { url.searchParams.delete('q'); }
+    window.history.replaceState(null, '', url);
+  });
+  input.addEventListener('input', function () { render(input.value); });
+  var q0 = new URLSearchParams(window.location.search).get('q');
+  if (q0) input.value = q0;
+})();
+</script>
+</div>
+</main>
+<footer class="site-footer">
+  <div class="footer-inner">
+    <nav class="footer-nav">
+      <a href="/search.html">サイト内検索</a>
+      <a href="/about/">このサイトについて</a>
+      <a href="/privacy/">プライバシーポリシー</a>
+      <a href="/contact/">お問い合わせ</a>
+    </nav>
+    <p class="copyright">&copy; 2026 ぱぐお（ぱぐのしっぽ）</p>
+  </div>
+  <img class="footer-paguo" src="/images/paguo-slide.png" alt="" width="104" height="104" loading="lazy">
+</footer>
+</body>
+</html>
